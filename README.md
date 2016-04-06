@@ -9,9 +9,9 @@
 #### PROJECT OVERVIEW
 
 #### Libraries:
-  - Python 2.7
-  - Pandas
-  - Numpy
-  - SQLITE3
+  - `Python 2.7`
+  - `Pandas`
+  - `Numpy`
+  - `SQLITE3`
 
 
