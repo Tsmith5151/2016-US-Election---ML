@@ -1,0 +1,1162 @@
+state,state_abbreviation,county,fips,party,candidate,MAX(votes),fraction_votes,county_state
+Alabama,AL,Autauga,1001,Republican,"Donald Trump",5387,0.445,Autauga_Alabama
+Alabama,AL,Baldwin,1003,Republican,"Donald Trump",23618,0.469,Baldwin_Alabama
+Alabama,AL,Barbour,1005,Republican,"Donald Trump",1710,0.501,Barbour_Alabama
+Alabama,AL,Bullock,1011,Republican,"Donald Trump",313,0.565,Bullock_Alabama
+Alabama,AL,Calhoun,1015,Republican,"Donald Trump",8960,0.451,Calhoun_Alabama
+Alabama,AL,Chilton,1021,Republican,"Donald Trump",5273,0.493,Chilton_Alabama
+Alabama,AL,Choctaw,1023,Republican,"Donald Trump",1070,0.499,Choctaw_Alabama
+Alabama,AL,Coffee,1031,Republican,"Donald Trump",4304,0.414,Coffee_Alabama
+Alabama,AL,Colbert,1033,Republican,"Donald Trump",3858,0.474,Colbert_Alabama
+Alabama,AL,Conecuh,1035,Republican,"Donald Trump",768,0.59,Conecuh_Alabama
+Alabama,AL,Coosa,1037,Republican,"Donald Trump",1233,0.553,Coosa_Alabama
+Alabama,AL,Covington,1039,Republican,"Donald Trump",4608,0.481,Covington_Alabama
+Alabama,AL,Crenshaw,1041,Republican,"Donald Trump",1496,0.545,Crenshaw_Alabama
+Alabama,AL,Cullman,1043,Republican,"Donald Trump",10618,0.506,Cullman_Alabama
+Alabama,AL,Dale,1045,Republican,"Donald Trump",4151,0.453,Dale_Alabama
+Alabama,AL,Elmore,1051,Republican,"Donald Trump",8525,0.478,Elmore_Alabama
+Alabama,AL,Etowah,1055,Republican,"Donald Trump",8657,0.461,Etowah_Alabama
+Alabama,AL,Geneva,1061,Republican,"Donald Trump",3106,0.486,Geneva_Alabama
+Alabama,AL,Houston,1069,Republican,"Donald Trump",8171,0.404,Houston_Alabama
+Alabama,AL,Jefferson,1073,Republican,"Donald Trump",32853,0.35,Jefferson_Alabama
+Alabama,AL,Lauderdale,1077,Republican,"Donald Trump",7502,0.421,Lauderdale_Alabama
+Alabama,AL,Limestone,1083,Republican,"Donald Trump",8198,0.43,Limestone_Alabama
+Alabama,AL,Madison,1089,Republican,"Donald Trump",23791,0.362,Madison_Alabama
+Alabama,AL,Marengo,1091,Republican,"Donald Trump",580,0.539,Marengo_Alabama
+Alabama,AL,Marshall,1095,Republican,"Donald Trump",9115,0.495,Marshall_Alabama
+Alabama,AL,Mobile,1097,Republican,"Donald Trump",28326,0.452,Mobile_Alabama
+Alabama,AL,Morgan,1103,Republican,"Donald Trump",10909,0.446,Morgan_Alabama
+Alabama,AL,Pike,1109,Republican,"Donald Trump",2493,0.46,Pike_Alabama
+Alabama,AL,Russell,1113,Republican,"Donald Trump",1784,0.474,Russell_Alabama
+Alabama,AL,Talladega,1121,Republican,"Donald Trump",6304,0.51,Talladega_Alabama
+Alabama,AL,Tallapoosa,1123,Republican,"Donald Trump",4658,0.528,Tallapoosa_Alabama
+Alabama,AL,Tuscaloosa,1125,Republican,"Donald Trump",11652,0.375,Tuscaloosa_Alabama
+Alabama,AL,Walker,1127,Republican,"Donald Trump",8394,0.551,Walker_Alabama
+Alabama,AL,Winston,1133,Republican,"Donald Trump",3352,0.561,Winston_Alabama
+Arizona,AZ,Apache,4001,Republican,"Donald Trump",1088,0.436,Apache_Arizona
+Arizona,AZ,Cochise,4003,Republican,"Donald Trump",6339,0.498,Cochise_Arizona
+Arizona,AZ,Coconino,4005,Republican,"Donald Trump",3324,0.392,Coconino_Arizona
+Arizona,AZ,Gila,4007,Republican,"Donald Trump",3065,0.539,Gila_Arizona
+Arizona,AZ,Graham,4009,Republican,"Ted Cruz",1606,0.419,Graham_Arizona
+Arizona,AZ,Greenlee,4011,Republican,"Donald Trump",282,0.448,Greenlee_Arizona
+Arizona,AZ,"La Paz",4012,Republican,"Donald Trump",940,0.674,"La Paz_Arizona"
+Arizona,AZ,Maricopa,4013,Republican,"Donald Trump",144522,0.462,Maricopa_Arizona
+Arizona,AZ,Mohave,4015,Republican,"Donald Trump",14154,0.648,Mohave_Arizona
+Arizona,AZ,Navajo,4017,Republican,"Donald Trump",3558,0.414,Navajo_Arizona
+Arizona,AZ,Pima,4019,Republican,"Donald Trump",36804,0.436,Pima_Arizona
+Arizona,AZ,Pinal,4021,Republican,"Donald Trump",12182,0.575,Pinal_Arizona
+Arizona,AZ,"Santa Cruz",4023,Republican,"Donald Trump",762,0.452,"Santa Cruz_Arizona"
+Arizona,AZ,Yavapai,4025,Republican,"Donald Trump",17005,0.476,Yavapai_Arizona
+Arizona,AZ,Yuma,4027,Republican,"Donald Trump",4390,0.495,Yuma_Arizona
+Arkansas,AR,Arkansas,5001,Republican,"Donald Trump",1073,0.385,Arkansas_Arkansas
+Arkansas,AR,Ashley,5003,Republican,"Donald Trump",586,0.404,Ashley_Arkansas
+Arkansas,AR,Baxter,5005,Republican,"Donald Trump",3798,0.438,Baxter_Arkansas
+Arkansas,AR,Benton,5007,Republican,"Marco Rubio",12863,0.303,Benton_Arkansas
+Arkansas,AR,Chicot,5017,Republican,"Donald Trump",416,0.511,Chicot_Arkansas
+Arkansas,AR,Cleburne,5023,Republican,"Donald Trump",2530,0.368,Cleburne_Arkansas
+Arkansas,AR,Conway,5029,Republican,"Donald Trump",805,0.362,Conway_Arkansas
+Arkansas,AR,Craighead,5031,Republican,"Ted Cruz",4108,0.334,Craighead_Arkansas
+Arkansas,AR,Crawford,5033,Republican,"Ted Cruz",3926,0.371,Crawford_Arkansas
+Arkansas,AR,Crittenden,5035,Republican,"Donald Trump",1359,0.444,Crittenden_Arkansas
+Arkansas,AR,Cross,5037,Republican,"Donald Trump",972,0.401,Cross_Arkansas
+Arkansas,AR,Desha,5041,Republican,"Donald Trump",234,0.531,Desha_Arkansas
+Arkansas,AR,Drew,5043,Republican,"Donald Trump",795,0.366,Drew_Arkansas
+Arkansas,AR,Faulkner,5045,Republican,"Ted Cruz",6228,0.333,Faulkner_Arkansas
+Arkansas,AR,Garland,5051,Republican,"Donald Trump",5538,0.352,Garland_Arkansas
+Arkansas,AR,Grant,5053,Republican,"Ted Cruz",1329,0.411,Grant_Arkansas
+Arkansas,AR,Hempstead,5057,Republican,"Ted Cruz",917,0.378,Hempstead_Arkansas
+Arkansas,AR,"Hot Spring",5059,Republican,"Donald Trump",1597,0.373,"Hot Spring_Arkansas"
+Arkansas,AR,Independence,5063,Republican,"Donald Trump",2077,0.349,Independence_Arkansas
+Arkansas,AR,Izard,5065,Republican,"Donald Trump",873,0.42,Izard_Arkansas
+Arkansas,AR,"Little River",5081,Republican,"Donald Trump",521,0.388,"Little River_Arkansas"
+Arkansas,AR,Lonoke,5085,Republican,"Ted Cruz",4028,0.342,Lonoke_Arkansas
+Arkansas,AR,Miller,5091,Republican,"Ted Cruz",2741,0.392,Miller_Arkansas
+Arkansas,AR,Mississippi,5093,Republican,"Donald Trump",1575,0.426,Mississippi_Arkansas
+Arkansas,AR,Nevada,5099,Republican,"Ted Cruz",246,0.359,Nevada_Arkansas
+Arkansas,AR,Phillips,5107,Republican,"Donald Trump",363,0.566,Phillips_Arkansas
+Arkansas,AR,Poinsett,5111,Republican,"Donald Trump",1036,0.385,Poinsett_Arkansas
+Arkansas,AR,Pope,5115,Republican,"Donald Trump",3073,0.321,Pope_Arkansas
+Arkansas,AR,Prairie,5117,Republican,"Ted Cruz",466,0.425,Prairie_Arkansas
+Arkansas,AR,Pulaski,5119,Republican,"Marco Rubio",16282,0.352,Pulaski_Arkansas
+Arkansas,AR,Saline,5125,Republican,"Ted Cruz",7507,0.331,Saline_Arkansas
+Arkansas,AR,Searcy,5129,Republican,"Donald Trump",939,0.39,Searcy_Arkansas
+Arkansas,AR,Sebastian,5131,Republican,"Donald Trump",6030,0.323,Sebastian_Arkansas
+Arkansas,AR,Sharp,5135,Republican,"Donald Trump",1241,0.419,Sharp_Arkansas
+Arkansas,AR,Washington,5143,Republican,"Ted Cruz",8890,0.307,Washington_Arkansas
+Arkansas,AR,White,5145,Republican,"Ted Cruz",4395,0.341,White_Arkansas
+Arkansas,AR,Woodruff,5147,Republican,"Donald Trump",130,0.442,Woodruff_Arkansas
+Arkansas,AR,Yell,5149,Republican,"Donald Trump",911,0.376,Yell_Arkansas
+Florida,FL,Alachua,12001,Republican,"Donald Trump",9241,0.382,Alachua_Florida
+Florida,FL,Baker,12003,Republican,"Donald Trump",2163,0.531,Baker_Florida
+Florida,FL,Bay,12005,Republican,"Donald Trump",14426,0.487,Bay_Florida
+Florida,FL,Bradford,12007,Republican,"Donald Trump",1802,0.495,Bradford_Florida
+Florida,FL,Brevard,12009,Republican,"Donald Trump",45483,0.463,Brevard_Florida
+Florida,FL,Broward,12011,Republican,"Donald Trump",52759,0.493,Broward_Florida
+Florida,FL,Charlotte,12015,Republican,"Donald Trump",16525,0.548,Charlotte_Florida
+Florida,FL,Citrus,12017,Republican,"Donald Trump",15232,0.55,Citrus_Florida
+Florida,FL,Clay,12019,Republican,"Donald Trump",19374,0.506,Clay_Florida
+Florida,FL,Collier,12021,Republican,"Donald Trump",30071,0.461,Collier_Florida
+Florida,FL,Dixie,12029,Republican,"Donald Trump",1103,0.634,Dixie_Florida
+Florida,FL,Duval,12031,Republican,"Donald Trump",52588,0.471,Duval_Florida
+Florida,FL,Escambia,12033,Republican,"Donald Trump",20856,0.417,Escambia_Florida
+Florida,FL,Flagler,12035,Republican,"Donald Trump",9684,0.576,Flagler_Florida
+Florida,FL,Gadsden,12039,Republican,"Donald Trump",995,0.418,Gadsden_Florida
+Florida,FL,Gilchrist,12041,Republican,"Donald Trump",1860,0.588,Gilchrist_Florida
+Florida,FL,Glades,12043,Republican,"Donald Trump",632,0.592,Glades_Florida
+Florida,FL,Gulf,12045,Republican,"Donald Trump",1038,0.496,Gulf_Florida
+Florida,FL,Hardee,12049,Republican,"Donald Trump",1113,0.513,Hardee_Florida
+Florida,FL,Hendry,12051,Republican,"Donald Trump",1290,0.488,Hendry_Florida
+Florida,FL,Hernando,12053,Republican,"Donald Trump",15479,0.562,Hernando_Florida
+Florida,FL,Highlands,12055,Republican,"Donald Trump",7480,0.5,Highlands_Florida
+Florida,FL,Hillsborough,12057,Republican,"Donald Trump",53062,0.408,Hillsborough_Florida
+Florida,FL,"Indian River",12061,Republican,"Donald Trump",13678,0.483,"Indian River_Florida"
+Florida,FL,Lee,12071,Republican,"Donald Trump",51659,0.476,Lee_Florida
+Florida,FL,Leon,12073,Republican,"Donald Trump",9083,0.297,Leon_Florida
+Florida,FL,Levy,12075,Republican,"Donald Trump",3745,0.576,Levy_Florida
+Florida,FL,Manatee,12081,Republican,"Donald Trump",26320,0.472,Manatee_Florida
+Florida,FL,Marion,12083,Republican,"Donald Trump",31370,0.548,Marion_Florida
+Florida,FL,Martin,12085,Republican,"Donald Trump",16065,0.511,Martin_Florida
+Florida,FL,Miami-Dade,12086,Republican,"Marco Rubio",111898,0.627,Miami-Dade_Florida
+Florida,FL,Nassau,12089,Republican,"Donald Trump",9192,0.512,Nassau_Florida
+Florida,FL,Okeechobee,12093,Republican,"Donald Trump",2202,0.585,Okeechobee_Florida
+Florida,FL,Orange,12095,Republican,"Donald Trump",41097,0.398,Orange_Florida
+Florida,FL,Osceola,12097,Republican,"Donald Trump",10345,0.469,Osceola_Florida
+Florida,FL,"Palm Beach",12099,Republican,"Donald Trump",66065,0.521,"Palm Beach_Florida"
+Florida,FL,Pasco,12101,Republican,"Donald Trump",33536,0.51,Pasco_Florida
+Florida,FL,Pinellas,12103,Republican,"Donald Trump",61133,0.464,Pinellas_Florida
+Florida,FL,Polk,12105,Republican,"Donald Trump",33187,0.449,Polk_Florida
+Florida,FL,Putnam,12107,Republican,"Donald Trump",5119,0.573,Putnam_Florida
+Florida,FL,"Santa Rosa",12113,Republican,"Donald Trump",16044,0.464,"Santa Rosa_Florida"
+Florida,FL,Sarasota,12115,Republican,"Donald Trump",34593,0.473,Sarasota_Florida
+Florida,FL,Seminole,12117,Republican,"Donald Trump",25763,0.416,Seminole_Florida
+Florida,FL,Sumter,12119,Republican,"Donald Trump",17769,0.54,Sumter_Florida
+Florida,FL,Suwannee,12121,Republican,"Donald Trump",2844,0.497,Suwannee_Florida
+Florida,FL,Volusia,12127,Republican,"Donald Trump",34167,0.533,Volusia_Florida
+Florida,FL,Wakulla,12129,Republican,"Donald Trump",1664,0.431,Wakulla_Florida
+Georgia,GA,Appling,13001,Republican,"Donald Trump",1290,0.415,Appling_Georgia
+Georgia,GA,Atkinson,13003,Republican,"Donald Trump",619,0.659,Atkinson_Georgia
+Georgia,GA,Bacon,13005,Republican,"Donald Trump",904,0.538,Bacon_Georgia
+Georgia,GA,Banks,13011,Republican,"Donald Trump",1806,0.489,Banks_Georgia
+Georgia,GA,Barrow,13013,Republican,"Donald Trump",4653,0.408,Barrow_Georgia
+Georgia,GA,Bartow,13015,Republican,"Donald Trump",8281,0.462,Bartow_Georgia
+Georgia,GA,"Ben Hill",13017,Republican,"Donald Trump",1020,0.559,"Ben Hill_Georgia"
+Georgia,GA,Bibb,13021,Republican,"Donald Trump",5942,0.388,Bibb_Georgia
+Georgia,GA,Bleckley,13023,Republican,"Donald Trump",935,0.436,Bleckley_Georgia
+Georgia,GA,Brantley,13025,Republican,"Donald Trump",1161,0.488,Brantley_Georgia
+Georgia,GA,Brooks,13027,Republican,"Donald Trump",1009,0.52,Brooks_Georgia
+Georgia,GA,Bryan,13029,Republican,"Donald Trump",2214,0.391,Bryan_Georgia
+Georgia,GA,Bulloch,13031,Republican,"Donald Trump",3111,0.377,Bulloch_Georgia
+Georgia,GA,Butts,13035,Republican,"Donald Trump",1884,0.488,Butts_Georgia
+Georgia,GA,Candler,13043,Republican,"Donald Trump",897,0.49,Candler_Georgia
+Georgia,GA,Carroll,13045,Republican,"Donald Trump",7495,0.417,Carroll_Georgia
+Georgia,GA,Catoosa,13047,Republican,"Donald Trump",4449,0.402,Catoosa_Georgia
+Georgia,GA,Charlton,13049,Republican,"Donald Trump",602,0.473,Charlton_Georgia
+Georgia,GA,Chatham,13051,Republican,"Donald Trump",10726,0.35,Chatham_Georgia
+Georgia,GA,Chattahoochee,13053,Republican,"Donald Trump",175,0.545,Chattahoochee_Georgia
+Georgia,GA,Chattooga,13055,Republican,"Donald Trump",1674,0.517,Chattooga_Georgia
+Georgia,GA,Cherokee,13057,Republican,"Donald Trump",18460,0.367,Cherokee_Georgia
+Georgia,GA,Clarke,13059,Republican,"Marco Rubio",3105,0.352,Clarke_Georgia
+Georgia,GA,Clayton,13063,Republican,"Donald Trump",3264,0.42,Clayton_Georgia
+Georgia,GA,Clinch,13065,Republican,"Donald Trump",412,0.509,Clinch_Georgia
+Georgia,GA,Cobb,13067,Republican,"Marco Rubio",38712,0.346,Cobb_Georgia
+Georgia,GA,Colquitt,13071,Republican,"Donald Trump",2967,0.496,Colquitt_Georgia
+Georgia,GA,Columbia,13073,Republican,"Donald Trump",9177,0.346,Columbia_Georgia
+Georgia,GA,Cook,13075,Republican,"Donald Trump",1229,0.547,Cook_Georgia
+Georgia,GA,Coweta,13077,Republican,"Donald Trump",9593,0.379,Coweta_Georgia
+Georgia,GA,Crisp,13081,Republican,"Donald Trump",1204,0.502,Crisp_Georgia
+Georgia,GA,Dade,13083,Republican,"Donald Trump",1151,0.412,Dade_Georgia
+Georgia,GA,Dawson,13085,Republican,"Donald Trump",2649,0.454,Dawson_Georgia
+Georgia,GA,Decatur,13087,Republican,"Donald Trump",1525,0.485,Decatur_Georgia
+Georgia,GA,Dodge,13091,Republican,"Donald Trump",1360,0.504,Dodge_Georgia
+Georgia,GA,Dooly,13093,Republican,"Donald Trump",584,0.555,Dooly_Georgia
+Georgia,GA,Dougherty,13095,Republican,"Donald Trump",3078,0.468,Dougherty_Georgia
+Georgia,GA,Douglas,13097,Republican,"Donald Trump",6984,0.428,Douglas_Georgia
+Georgia,GA,Early,13099,Republican,"Donald Trump",760,0.561,Early_Georgia
+Georgia,GA,Echols,13101,Republican,"Donald Trump",268,0.583,Echols_Georgia
+Georgia,GA,Effingham,13103,Republican,"Donald Trump",3648,0.393,Effingham_Georgia
+Georgia,GA,Elbert,13105,Republican,"Donald Trump",1394,0.459,Elbert_Georgia
+Georgia,GA,Emanuel,13107,Republican,"Donald Trump",1489,0.502,Emanuel_Georgia
+Georgia,GA,Evans,13109,Republican,"Donald Trump",481,0.38,Evans_Georgia
+Georgia,GA,Fannin,13111,Republican,"Donald Trump",3001,0.532,Fannin_Georgia
+Georgia,GA,Fayette,13113,Republican,"Donald Trump",8055,0.327,Fayette_Georgia
+Georgia,GA,Floyd,13115,Republican,"Donald Trump",5945,0.422,Floyd_Georgia
+Georgia,GA,Fulton,13121,Republican,"Marco Rubio",35052,0.416,Fulton_Georgia
+Georgia,GA,Gilmer,13123,Republican,"Donald Trump",3314,0.516,Gilmer_Georgia
+Georgia,GA,Glascock,13125,Republican,"Donald Trump",405,0.586,Glascock_Georgia
+Georgia,GA,Glynn,13127,Republican,"Donald Trump",5516,0.438,Glynn_Georgia
+Georgia,GA,Gordon,13129,Republican,"Donald Trump",4339,0.506,Gordon_Georgia
+Georgia,GA,Gwinnett,13135,Republican,"Donald Trump",32014,0.325,Gwinnett_Georgia
+Georgia,GA,Habersham,13137,Republican,"Donald Trump",3289,0.418,Habersham_Georgia
+Georgia,GA,Hall,13139,Republican,"Donald Trump",12536,0.385,Hall_Georgia
+Georgia,GA,Haralson,13143,Republican,"Donald Trump",2818,0.495,Haralson_Georgia
+Georgia,GA,Hart,13147,Republican,"Donald Trump",1858,0.442,Hart_Georgia
+Georgia,GA,Heard,13149,Republican,"Donald Trump",1068,0.552,Heard_Georgia
+Georgia,GA,Henry,13151,Republican,"Donald Trump",11330,0.402,Henry_Georgia
+Georgia,GA,Irwin,13155,Republican,"Donald Trump",869,0.574,Irwin_Georgia
+Georgia,GA,"Jeff Davis",13161,Republican,"Donald Trump",1071,0.469,"Jeff Davis_Georgia"
+Georgia,GA,Jenkins,13165,Republican,"Donald Trump",513,0.518,Jenkins_Georgia
+Georgia,GA,Lanier,13173,Republican,"Donald Trump",512,0.569,Lanier_Georgia
+Georgia,GA,Long,13183,Republican,"Donald Trump",633,0.553,Long_Georgia
+Georgia,GA,Lowndes,13185,Republican,"Donald Trump",5194,0.442,Lowndes_Georgia
+Georgia,GA,Lumpkin,13187,Republican,"Donald Trump",2453,0.416,Lumpkin_Georgia
+Georgia,GA,McDuffie,13189,Republican,"Donald Trump",1288,0.407,McDuffie_Georgia
+Georgia,GA,McIntosh,13191,Republican,"Donald Trump",1078,0.54,McIntosh_Georgia
+Georgia,GA,Meriwether,13199,Republican,"Donald Trump",1435,0.481,Meriwether_Georgia
+Georgia,GA,Murray,13213,Republican,"Donald Trump",3084,0.572,Murray_Georgia
+Georgia,GA,Muscogee,13215,Republican,"Donald Trump",5325,0.344,Muscogee_Georgia
+Georgia,GA,Oglethorpe,13221,Republican,"Donald Trump",1230,0.439,Oglethorpe_Georgia
+Georgia,GA,Paulding,13223,Republican,"Donald Trump",10002,0.414,Paulding_Georgia
+Georgia,GA,Peach,13225,Republican,"Donald Trump",1325,0.434,Peach_Georgia
+Georgia,GA,Pierce,13229,Republican,"Donald Trump",1345,0.404,Pierce_Georgia
+Georgia,GA,Rabun,13241,Republican,"Donald Trump",1732,0.459,Rabun_Georgia
+Georgia,GA,Richmond,13245,Republican,"Donald Trump",5543,0.368,Richmond_Georgia
+Georgia,GA,Rockdale,13247,Republican,"Donald Trump",3785,0.41,Rockdale_Georgia
+Georgia,GA,Schley,13249,Republican,"Donald Trump",331,0.428,Schley_Georgia
+Georgia,GA,Screven,13251,Republican,"Donald Trump",801,0.458,Screven_Georgia
+Georgia,GA,Spalding,13255,Republican,"Donald Trump",4257,0.427,Spalding_Georgia
+Georgia,GA,Talbot,13263,Republican,"Donald Trump",368,0.535,Talbot_Georgia
+Georgia,GA,Taliaferro,13265,Republican,"Donald Trump",102,0.518,Taliaferro_Georgia
+Georgia,GA,Tattnall,13267,Republican,"Donald Trump",1089,0.426,Tattnall_Georgia
+Georgia,GA,Telfair,13271,Republican,"Donald Trump",626,0.515,Telfair_Georgia
+Georgia,GA,Terrell,13273,Republican,"Donald Trump",649,0.559,Terrell_Georgia
+Georgia,GA,Thomas,13275,Republican,"Donald Trump",2649,0.4,Thomas_Georgia
+Georgia,GA,Tift,13277,Republican,"Donald Trump",2697,0.478,Tift_Georgia
+Georgia,GA,Toombs,13279,Republican,"Donald Trump",1513,0.417,Toombs_Georgia
+Georgia,GA,Towns,13281,Republican,"Donald Trump",1356,0.46,Towns_Georgia
+Georgia,GA,Treutlen,13283,Republican,"Donald Trump",437,0.542,Treutlen_Georgia
+Georgia,GA,Troup,13285,Republican,"Donald Trump",4140,0.434,Troup_Georgia
+Georgia,GA,Turner,13287,Republican,"Donald Trump",652,0.569,Turner_Georgia
+Georgia,GA,Twiggs,13289,Republican,"Donald Trump",594,0.551,Twiggs_Georgia
+Georgia,GA,Upson,13293,Republican,"Donald Trump",1910,0.487,Upson_Georgia
+Georgia,GA,Walton,13297,Republican,"Donald Trump",7910,0.416,Walton_Georgia
+Georgia,GA,Ware,13299,Republican,"Donald Trump",1998,0.434,Ware_Georgia
+Georgia,GA,Whitfield,13313,Republican,"Donald Trump",5945,0.466,Whitfield_Georgia
+Georgia,GA,Wilcox,13315,Republican,"Donald Trump",602,0.552,Wilcox_Georgia
+Georgia,GA,Wilkinson,13319,Republican,"Donald Trump",611,0.476,Wilkinson_Georgia
+Georgia,GA,Worth,13321,Republican,"Donald Trump",1890,0.552,Worth_Georgia
+Idaho,ID,Ada,16001,Republican,"Ted Cruz",20156,0.403,Ada_Idaho
+Idaho,ID,Bannock,16005,Republican,"Ted Cruz",4404,0.495,Bannock_Idaho
+Idaho,ID,"Bear Lake",16007,Republican,"Ted Cruz",643,0.427,"Bear Lake_Idaho"
+Idaho,ID,Benewah,16009,Republican,"Ted Cruz",671,0.514,Benewah_Idaho
+Idaho,ID,Bingham,16011,Republican,"Ted Cruz",3471,0.497,Bingham_Idaho
+Idaho,ID,Blaine,16013,Republican,"Donald Trump",543,0.347,Blaine_Idaho
+Idaho,ID,Boise,16015,Republican,"Donald Trump",691,0.429,Boise_Idaho
+Idaho,ID,Bonner,16017,Republican,"Ted Cruz",3132,0.457,Bonner_Idaho
+Idaho,ID,Bonneville,16019,Republican,"Ted Cruz",7794,0.461,Bonneville_Idaho
+Idaho,ID,Boundary,16021,Republican,"Ted Cruz",901,0.453,Boundary_Idaho
+Idaho,ID,Butte,16023,Republican,"Ted Cruz",275,0.479,Butte_Idaho
+Idaho,ID,Camas,16025,Republican,"Donald Trump",130,0.418,Camas_Idaho
+Idaho,ID,Canyon,16027,Republican,"Ted Cruz",11164,0.474,Canyon_Idaho
+Idaho,ID,Caribou,16029,Republican,"Ted Cruz",602,0.445,Caribou_Idaho
+Idaho,ID,Cassia,16031,Republican,"Ted Cruz",2095,0.47,Cassia_Idaho
+Idaho,ID,Clearwater,16035,Republican,"Donald Trump",629,0.449,Clearwater_Idaho
+Idaho,ID,Fremont,16043,Republican,"Ted Cruz",1434,0.518,Fremont_Idaho
+Idaho,ID,Gem,16045,Republican,"Ted Cruz",1391,0.432,Gem_Idaho
+Idaho,ID,Gooding,16047,Republican,"Ted Cruz",863,0.444,Gooding_Idaho
+Idaho,ID,Jerome,16053,Republican,"Ted Cruz",1164,0.485,Jerome_Idaho
+Idaho,ID,Kootenai,16055,Republican,"Ted Cruz",11924,0.532,Kootenai_Idaho
+Idaho,ID,Latah,16057,Republican,"Ted Cruz",2134,0.535,Latah_Idaho
+Idaho,ID,Lemhi,16059,Republican,"Donald Trump",757,0.383,Lemhi_Idaho
+Idaho,ID,Minidoka,16067,Republican,"Ted Cruz",1163,0.465,Minidoka_Idaho
+Idaho,ID,"Nez Perce",16069,Republican,"Ted Cruz",1583,0.401,"Nez Perce_Idaho"
+Idaho,ID,Oneida,16071,Republican,"Ted Cruz",473,0.599,Oneida_Idaho
+Idaho,ID,Owyhee,16073,Republican,"Ted Cruz",717,0.43,Owyhee_Idaho
+Idaho,ID,Payette,16075,Republican,"Ted Cruz",1364,0.406,Payette_Idaho
+Idaho,ID,Power,16077,Republican,"Ted Cruz",421,0.479,Power_Idaho
+Idaho,ID,Shoshone,16079,Republican,"Donald Trump",632,0.415,Shoshone_Idaho
+Idaho,ID,Teton,16081,Republican,"Ted Cruz",465,0.452,Teton_Idaho
+Idaho,ID,"Twin Falls",16083,Republican,"Ted Cruz",4717,0.49,"Twin Falls_Idaho"
+Idaho,ID,Valley,16085,Republican,"Donald Trump",575,0.388,Valley_Idaho
+Illinois,IL,Adams,17001,Republican,"Donald Trump",5233,0.407,Adams_Illinois
+Illinois,IL,Bond,17005,Republican,"Donald Trump",1102,0.412,Bond_Illinois
+Illinois,IL,Bureau,17011,Republican,"Donald Trump",2185,0.395,Bureau_Illinois
+Illinois,IL,Champaign,17019,Republican,"Ted Cruz",9617,0.369,Champaign_Illinois
+Illinois,IL,Coles,17029,Republican,"Donald Trump",3156,0.372,Coles_Illinois
+Illinois,IL,Edgar,17045,Republican,"Donald Trump",1562,0.422,Edgar_Illinois
+Illinois,IL,Edwards,17047,Republican,"Donald Trump",867,0.448,Edwards_Illinois
+Illinois,IL,Ford,17053,Republican,"Ted Cruz",1281,0.378,Ford_Illinois
+Illinois,IL,Gallatin,17059,Republican,"Donald Trump",310,0.548,Gallatin_Illinois
+Illinois,IL,Grundy,17063,Republican,"Donald Trump",3625,0.469,Grundy_Illinois
+Illinois,IL,Iroquois,17075,Republican,"Donald Trump",2836,0.426,Iroquois_Illinois
+Illinois,IL,Jersey,17083,Republican,"Donald Trump",1902,0.476,Jersey_Illinois
+Illinois,IL,Kane,17089,Republican,"Donald Trump",21605,0.36,Kane_Illinois
+Illinois,IL,Kankakee,17091,Republican,"Donald Trump",6403,0.427,Kankakee_Illinois
+Illinois,IL,Kendall,17093,Republican,"Donald Trump",6721,0.399,Kendall_Illinois
+Illinois,IL,Lake,17097,Republican,"Donald Trump",30697,0.361,Lake_Illinois
+Illinois,IL,Macon,17115,Republican,"Donald Trump",6655,0.403,Macon_Illinois
+Illinois,IL,Macoupin,17117,Republican,"Donald Trump",3527,0.478,Macoupin_Illinois
+Illinois,IL,Massac,17127,Republican,"Donald Trump",1341,0.444,Massac_Illinois
+Illinois,IL,McDonough,17109,Republican,"Donald Trump",1599,0.366,McDonough_Illinois
+Illinois,IL,McHenry,17111,Republican,"Donald Trump",16514,0.409,McHenry_Illinois
+Illinois,IL,McLean,17113,Republican,"Ted Cruz",13085,0.416,McLean_Illinois
+Illinois,IL,Menard,17129,Republican,"Ted Cruz",1064,0.378,Menard_Illinois
+Illinois,IL,Moultrie,17139,Republican,"Ted Cruz",1321,0.489,Moultrie_Illinois
+Illinois,IL,Ogle,17141,Republican,"Ted Cruz",4307,0.386,Ogle_Illinois
+Illinois,IL,Peoria,17143,Republican,"Ted Cruz",10278,0.406,Peoria_Illinois
+Illinois,IL,Piatt,17147,Republican,"Ted Cruz",1855,0.399,Piatt_Illinois
+Illinois,IL,"Rock Island",17161,Republican,"Donald Trump",5173,0.361,"Rock Island_Illinois"
+Illinois,IL,Sangamon,17167,Republican,"Ted Cruz",12261,0.348,Sangamon_Illinois
+Illinois,IL,Schuyler,17169,Republican,"Donald Trump",697,0.444,Schuyler_Illinois
+Illinois,IL,Stephenson,17177,Republican,"Ted Cruz",3038,0.358,Stephenson_Illinois
+Illinois,IL,Tazewell,17179,Republican,"Ted Cruz",12085,0.446,Tazewell_Illinois
+Illinois,IL,Vermilion,17183,Republican,"Donald Trump",5021,0.446,Vermilion_Illinois
+Illinois,IL,Wabash,17185,Republican,"Donald Trump",977,0.424,Wabash_Illinois
+Illinois,IL,Whiteside,17195,Republican,"Donald Trump",2466,0.356,Whiteside_Illinois
+Illinois,IL,Will,17197,Republican,"Donald Trump",38507,0.464,Will_Illinois
+Illinois,IL,Winnebago,17201,Republican,"Ted Cruz",15457,0.405,Winnebago_Illinois
+Illinois,IL,Woodford,17203,Republican,"Ted Cruz",5091,0.482,Woodford_Illinois
+Iowa,IA,Allamakee,19005,Republican,"Donald Trump",193,0.281,Allamakee_Iowa
+Iowa,IA,Appanoose,19007,Republican,"Donald Trump",292,0.348,Appanoose_Iowa
+Iowa,IA,Audubon,19009,Republican,"Ted Cruz",135,0.361,Audubon_Iowa
+Iowa,IA,"Black Hawk",19013,Republican,"Ted Cruz",1585,0.268,"Black Hawk_Iowa"
+Iowa,IA,Bremer,19017,Republican,"Ted Cruz",408,0.274,Bremer_Iowa
+Iowa,IA,"Buena Vista",19021,Republican,"Ted Cruz",309,0.306,"Buena Vista_Iowa"
+Iowa,IA,"Cerro Gordo",19033,Republican,"Ted Cruz",655,0.282,"Cerro Gordo_Iowa"
+Iowa,IA,"Des Moines",19057,Republican,"Donald Trump",659,0.304,"Des Moines_Iowa"
+Iowa,IA,Dubuque,19061,Republican,"Donald Trump",1087,0.273,Dubuque_Iowa
+Iowa,IA,Guthrie,19077,Republican,"Ted Cruz",218,0.289,Guthrie_Iowa
+Iowa,IA,Ida,19093,Republican,"Donald Trump",136,0.258,Ida_Iowa
+Iowa,IA,Iowa,19095,Republican,"Ted Cruz",353,0.342,Iowa_Iowa
+Iowa,IA,Keokuk,19107,Republican,"Donald Trump",220,0.313,Keokuk_Iowa
+Iowa,IA,Kossuth,19109,Republican,"Ted Cruz",285,0.301,Kossuth_Iowa
+Iowa,IA,Linn,19113,Republican,"Ted Cruz",3422,0.294,Linn_Iowa
+Iowa,IA,Mahaska,19123,Republican,"Ted Cruz",669,0.341,Mahaska_Iowa
+Iowa,IA,Monona,19133,Republican,"Ted Cruz",185,0.361,Monona_Iowa
+Iowa,IA,Muscatine,19139,Republican,"Donald Trump",720,0.298,Muscatine_Iowa
+Iowa,IA,"Palo Alto",19147,Republican,"Donald Trump",117,0.271,"Palo Alto_Iowa"
+Iowa,IA,Pocahontas,19151,Republican,"Ted Cruz",187,0.387,Pocahontas_Iowa
+Iowa,IA,Pottawattamie,19155,Republican,"Donald Trump",1508,0.345,Pottawattamie_Iowa
+Iowa,IA,Poweshiek,19157,Republican,"Ted Cruz",282,0.287,Poweshiek_Iowa
+Iowa,IA,Ringgold,19159,Republican,"Donald Trump",106,0.319,Ringgold_Iowa
+Iowa,IA,Sac,19161,Republican,"Donald Trump",212,0.317,Sac_Iowa
+Iowa,IA,Sioux,19167,Republican,"Ted Cruz",1524,0.332,Sioux_Iowa
+Iowa,IA,Story,19169,Republican,"Marco Rubio",2415,0.321,Story_Iowa
+Iowa,IA,Tama,19171,Republican,"Donald Trump",350,0.356,Tama_Iowa
+Iowa,IA,Wapello,19179,Republican,"Donald Trump",592,0.355,Wapello_Iowa
+Iowa,IA,Winneshiek,19191,Republican,"Donald Trump",274,0.262,Winneshiek_Iowa
+Iowa,IA,Woodbury,19193,Republican,"Donald Trump",1600,0.317,Woodbury_Iowa
+Kentucky,KY,Adair,21001,Republican,"Donald Trump",1512,0.578,Adair_Kentucky
+Kentucky,KY,Ballard,21007,Republican,"Ted Cruz",164,0.514,Ballard_Kentucky
+Kentucky,KY,Barren,21009,Republican,"Donald Trump",848,0.367,Barren_Kentucky
+Kentucky,KY,Bourbon,21017,Republican,"Ted Cruz",257,0.32,Bourbon_Kentucky
+Kentucky,KY,Boyd,21019,Republican,"Donald Trump",674,0.35,Boyd_Kentucky
+Kentucky,KY,Boyle,21021,Republican,"Donald Trump",560,0.319,Boyle_Kentucky
+Kentucky,KY,Bracken,21023,Republican,"Ted Cruz",117,0.437,Bracken_Kentucky
+Kentucky,KY,Breathitt,21025,Republican,"Ted Cruz",81,0.494,Breathitt_Kentucky
+Kentucky,KY,Breckinridge,21027,Republican,"Donald Trump",489,0.384,Breckinridge_Kentucky
+Kentucky,KY,Bullitt,21029,Republican,"Donald Trump",1770,0.403,Bullitt_Kentucky
+Kentucky,KY,Calloway,21035,Republican,"Ted Cruz",607,0.373,Calloway_Kentucky
+Kentucky,KY,Carlisle,21039,Republican,"Ted Cruz",124,0.617,Carlisle_Kentucky
+Kentucky,KY,Casey,21045,Republican,"Donald Trump",1029,0.533,Casey_Kentucky
+Kentucky,KY,Daviess,21059,Republican,"Ted Cruz",1739,0.369,Daviess_Kentucky
+Kentucky,KY,Edmonson,21061,Republican,"Donald Trump",531,0.53,Edmonson_Kentucky
+Kentucky,KY,Elliott,21063,Republican,"Donald Trump",17,0.436,Elliott_Kentucky
+Kentucky,KY,Estill,21065,Republican,"Donald Trump",313,0.48,Estill_Kentucky
+Kentucky,KY,Fleming,21069,Republican,"Donald Trump",329,0.423,Fleming_Kentucky
+Kentucky,KY,Garrard,21079,Republican,"Donald Trump",581,0.425,Garrard_Kentucky
+Kentucky,KY,Graves,21083,Republican,"Ted Cruz",671,0.496,Graves_Kentucky
+Kentucky,KY,Green,21087,Republican,"Donald Trump",655,0.486,Green_Kentucky
+Kentucky,KY,Greenup,21089,Republican,"Ted Cruz",550,0.369,Greenup_Kentucky
+Kentucky,KY,Harlan,21095,Republican,"Donald Trump",189,0.413,Harlan_Kentucky
+Kentucky,KY,Jessamine,21113,Republican,"Ted Cruz",1566,0.39,Jessamine_Kentucky
+Kentucky,KY,Kenton,21117,Republican,"Ted Cruz",2475,0.334,Kenton_Kentucky
+Kentucky,KY,Knott,21119,Republican,"Donald Trump",37,0.411,Knott_Kentucky
+Kentucky,KY,LaRue,21123,Republican,"Ted Cruz",275,0.374,LaRue_Kentucky
+Kentucky,KY,Laurel,21125,Republican,"Donald Trump",2313,0.468,Laurel_Kentucky
+Kentucky,KY,Leslie,21131,Republican,"Donald Trump",503,0.485,Leslie_Kentucky
+Kentucky,KY,Letcher,21133,Republican,"Donald Trump",410,0.574,Letcher_Kentucky
+Kentucky,KY,Magoffin,21153,Republican,"Donald Trump",300,0.578,Magoffin_Kentucky
+Kentucky,KY,McCracken,21145,Republican,"Ted Cruz",1525,0.43,McCracken_Kentucky
+Kentucky,KY,McCreary,21147,Republican,"Donald Trump",725,0.54,McCreary_Kentucky
+Kentucky,KY,Meade,21163,Republican,"Donald Trump",618,0.451,Meade_Kentucky
+Kentucky,KY,Menifee,21165,Republican,"Donald Trump",96,0.449,Menifee_Kentucky
+Kentucky,KY,Metcalfe,21169,Republican,"Donald Trump",310,0.434,Metcalfe_Kentucky
+Kentucky,KY,Muhlenberg,21177,Republican,"Donald Trump",338,0.374,Muhlenberg_Kentucky
+Kentucky,KY,Nicholas,21181,Republican,"Donald Trump",59,0.407,Nicholas_Kentucky
+Kentucky,KY,Ohio,21183,Republican,"Donald Trump",663,0.402,Ohio_Kentucky
+Kentucky,KY,Oldham,21185,Republican,"Ted Cruz",2011,0.321,Oldham_Kentucky
+Kentucky,KY,Owen,21187,Republican,"Ted Cruz",198,0.391,Owen_Kentucky
+Kentucky,KY,Owsley,21189,Republican,"Donald Trump",168,0.625,Owsley_Kentucky
+Kentucky,KY,Pendleton,21191,Republican,"Donald Trump",271,0.378,Pendleton_Kentucky
+Kentucky,KY,Powell,21197,Republican,"Donald Trump",259,0.519,Powell_Kentucky
+Kentucky,KY,Rockcastle,21203,Republican,"Donald Trump",743,0.45,Rockcastle_Kentucky
+Kentucky,KY,Spencer,21215,Republican,"Ted Cruz",663,0.396,Spencer_Kentucky
+Kentucky,KY,Todd,21219,Republican,"Donald Trump",109,0.401,Todd_Kentucky
+Kentucky,KY,Trigg,21221,Republican,"Donald Trump",376,0.403,Trigg_Kentucky
+Kentucky,KY,Trimble,21223,Republican,"Ted Cruz",94,0.448,Trimble_Kentucky
+Kentucky,KY,Whitley,21235,Republican,"Donald Trump",1556,0.473,Whitley_Kentucky
+Kentucky,KY,Wolfe,21237,Republican,"Donald Trump",39,0.406,Wolfe_Kentucky
+Louisiana,LA,Acadia,22001,Republican,"Donald Trump",1694,0.445,Acadia_Louisiana
+Louisiana,LA,Ascension,22005,Republican,"Ted Cruz",3558,0.423,Ascension_Louisiana
+Louisiana,LA,Assumption,22007,Republican,"Donald Trump",368,0.493,Assumption_Louisiana
+Louisiana,LA,Avoyelles,22009,Republican,"Donald Trump",885,0.567,Avoyelles_Louisiana
+Louisiana,LA,Beauregard,22011,Republican,"Ted Cruz",1363,0.463,Beauregard_Louisiana
+Louisiana,LA,Bienville,22013,Republican,"Ted Cruz",476,0.474,Bienville_Louisiana
+Louisiana,LA,Bossier,22015,Republican,"Ted Cruz",4988,0.454,Bossier_Louisiana
+Louisiana,LA,Caddo,22017,Republican,"Ted Cruz",7141,0.439,Caddo_Louisiana
+Louisiana,LA,Calcasieu,22019,Republican,"Ted Cruz",5491,0.452,Calcasieu_Louisiana
+Louisiana,LA,Catahoula,22025,Republican,"Donald Trump",289,0.457,Catahoula_Louisiana
+Louisiana,LA,Concordia,22029,Republican,"Donald Trump",733,0.487,Concordia_Louisiana
+Louisiana,LA,"East Baton Rouge",22033,Republican,"Ted Cruz",12358,0.413,"East Baton Rouge_Louisiana"
+Louisiana,LA,"East Carroll",22035,Republican,"Donald Trump",128,0.5,"East Carroll_Louisiana"
+Louisiana,LA,"East Feliciana",22037,Republican,"Donald Trump",706,0.437,"East Feliciana_Louisiana"
+Louisiana,LA,Evangeline,22039,Republican,"Donald Trump",730,0.472,Evangeline_Louisiana
+Louisiana,LA,Iberia,22045,Republican,"Donald Trump",2157,0.444,Iberia_Louisiana
+Louisiana,LA,Iberville,22047,Republican,"Donald Trump",830,0.491,Iberville_Louisiana
+Louisiana,LA,Lafayette,22055,Republican,"Donald Trump",7171,0.407,Lafayette_Louisiana
+Louisiana,LA,Lafourche,22057,Republican,"Donald Trump",2725,0.468,Lafourche_Louisiana
+Louisiana,LA,Morehouse,22067,Republican,"Donald Trump",775,0.478,Morehouse_Louisiana
+Louisiana,LA,Natchitoches,22069,Republican,"Donald Trump",1065,0.385,Natchitoches_Louisiana
+Louisiana,LA,Orleans,22071,Republican,"Donald Trump",2821,0.314,Orleans_Louisiana
+Louisiana,LA,Ouachita,22073,Republican,"Ted Cruz",4872,0.395,Ouachita_Louisiana
+Louisiana,LA,Plaquemines,22075,Republican,"Donald Trump",705,0.537,Plaquemines_Louisiana
+Louisiana,LA,"Pointe Coupee",22077,Republican,"Donald Trump",472,0.447,"Pointe Coupee_Louisiana"
+Louisiana,LA,Rapides,22079,Republican,"Ted Cruz",3680,0.422,Rapides_Louisiana
+Louisiana,LA,Tangipahoa,22105,Republican,"Donald Trump",3751,0.481,Tangipahoa_Louisiana
+Louisiana,LA,Tensas,22107,Republican,"Donald Trump",119,0.425,Tensas_Louisiana
+Louisiana,LA,Terrebonne,22109,Republican,"Donald Trump",3454,0.502,Terrebonne_Louisiana
+Louisiana,LA,"West Baton Rouge",22121,Republican,"Donald Trump",701,0.45,"West Baton Rouge_Louisiana"
+Louisiana,LA,"West Carroll",22123,Republican,"Ted Cruz",342,0.431,"West Carroll_Louisiana"
+Louisiana,LA,"West Feliciana",22125,Republican,"Donald Trump",382,0.418,"West Feliciana_Louisiana"
+Louisiana,LA,Winn,22127,Republican,"Donald Trump",397,0.429,Winn_Louisiana
+Massachusetts,MA,Barnstable,25001,Republican,"Donald Trump",3750,0.542,Barnstable_Massachusetts
+Massachusetts,MA,Hampden,25013,Republican,"Donald Trump",437,0.492,Hampden_Massachusetts
+Massachusetts,MA,Nantucket,25019,Republican,"Donald Trump",484,0.494,Nantucket_Massachusetts
+Massachusetts,MA,Plymouth,25023,Republican,"Donald Trump",4292,0.526,Plymouth_Massachusetts
+Massachusetts,MA,Worcester,25027,Republican,"Donald Trump",4266,0.49,Worcester_Massachusetts
+Michigan,MI,Alcona,26001,Republican,"Donald Trump",1111,0.518,Alcona_Michigan
+Michigan,MI,Alger,26003,Republican,"Donald Trump",517,0.407,Alger_Michigan
+Michigan,MI,Allegan,26005,Republican,"Ted Cruz",7530,0.369,Allegan_Michigan
+Michigan,MI,Alpena,26007,Republican,"Donald Trump",1885,0.441,Alpena_Michigan
+Michigan,MI,Antrim,26009,Republican,"Donald Trump",1969,0.404,Antrim_Michigan
+Michigan,MI,Arenac,26011,Republican,"Donald Trump",1141,0.513,Arenac_Michigan
+Michigan,MI,Baraga,26013,Republican,"Donald Trump",468,0.444,Baraga_Michigan
+Michigan,MI,Barry,26015,Republican,"Donald Trump",3478,0.329,Barry_Michigan
+Michigan,MI,Benzie,26019,Republican,"Donald Trump",1278,0.406,Benzie_Michigan
+Michigan,MI,Berrien,26021,Republican,"Donald Trump",7817,0.356,Berrien_Michigan
+Michigan,MI,Branch,26023,Republican,"Donald Trump",2455,0.405,Branch_Michigan
+Michigan,MI,Charlevoix,26029,Republican,"Donald Trump",1886,0.379,Charlevoix_Michigan
+Michigan,MI,Cheboygan,26031,Republican,"Donald Trump",2089,0.461,Cheboygan_Michigan
+Michigan,MI,Chippewa,26033,Republican,"Donald Trump",1959,0.402,Chippewa_Michigan
+Michigan,MI,Clare,26035,Republican,"Donald Trump",1996,0.471,Clare_Michigan
+Michigan,MI,Delta,26041,Republican,"Donald Trump",1954,0.396,Delta_Michigan
+Michigan,MI,Dickinson,26043,Republican,"Donald Trump",1708,0.39,Dickinson_Michigan
+Michigan,MI,Eaton,26045,Republican,"Donald Trump",5386,0.344,Eaton_Michigan
+Michigan,MI,Emmet,26047,Republican,"Donald Trump",2244,0.352,Emmet_Michigan
+Michigan,MI,Genesee,26049,Republican,"Donald Trump",16756,0.418,Genesee_Michigan
+Michigan,MI,Gladwin,26051,Republican,"Donald Trump",1774,0.455,Gladwin_Michigan
+Michigan,MI,Gogebic,26053,Republican,"Donald Trump",753,0.438,Gogebic_Michigan
+Michigan,MI,"Grand Traverse",26055,Republican,"Donald Trump",5891,0.338,"Grand Traverse_Michigan"
+Michigan,MI,Gratiot,26057,Republican,"Donald Trump",1799,0.375,Gratiot_Michigan
+Michigan,MI,Hillsdale,26059,Republican,"Donald Trump",3060,0.411,Hillsdale_Michigan
+Michigan,MI,Houghton,26061,Republican,"Ted Cruz",1497,0.339,Houghton_Michigan
+Michigan,MI,Ingham,26065,Republican,"Donald Trump",8056,0.292,Ingham_Michigan
+Michigan,MI,Ionia,26067,Republican,"Donald Trump",2676,0.327,Ionia_Michigan
+Michigan,MI,Iosco,26069,Republican,"Donald Trump",1973,0.523,Iosco_Michigan
+Michigan,MI,Isabella,26073,Republican,"Donald Trump",2180,0.353,Isabella_Michigan
+Michigan,MI,Kalamazoo,26077,Republican,"John Kasich",9104,0.281,Kalamazoo_Michigan
+Michigan,MI,Kalkaska,26079,Republican,"Donald Trump",1724,0.503,Kalkaska_Michigan
+Michigan,MI,Kent,26081,Republican,"Ted Cruz",35185,0.357,Kent_Michigan
+Michigan,MI,Keweenaw,26083,Republican,"Donald Trump",184,0.423,Keweenaw_Michigan
+Michigan,MI,Lapeer,26087,Republican,"Donald Trump",7446,0.456,Lapeer_Michigan
+Michigan,MI,Leelanau,26089,Republican,"Donald Trump",1613,0.334,Leelanau_Michigan
+Michigan,MI,Lenawee,26091,Republican,"Donald Trump",5167,0.359,Lenawee_Michigan
+Michigan,MI,Livingston,26093,Republican,"Donald Trump",15359,0.393,Livingston_Michigan
+Michigan,MI,Luce,26095,Republican,"Donald Trump",407,0.437,Luce_Michigan
+Michigan,MI,Mackinac,26097,Republican,"Donald Trump",856,0.432,Mackinac_Michigan
+Michigan,MI,Macomb,26099,Republican,"Donald Trump",60492,0.484,Macomb_Michigan
+Michigan,MI,Manistee,26101,Republican,"Donald Trump",1552,0.416,Manistee_Michigan
+Michigan,MI,Marquette,26103,Republican,"Donald Trump",2524,0.329,Marquette_Michigan
+Michigan,MI,Mason,26105,Republican,"Donald Trump",1785,0.356,Mason_Michigan
+Michigan,MI,Mecosta,26107,Republican,"Donald Trump",2113,0.369,Mecosta_Michigan
+Michigan,MI,Menominee,26109,Republican,"Donald Trump",1304,0.457,Menominee_Michigan
+Michigan,MI,Missaukee,26113,Republican,"Donald Trump",1221,0.393,Missaukee_Michigan
+Michigan,MI,Monroe,26115,Republican,"Donald Trump",8802,0.404,Monroe_Michigan
+Michigan,MI,Montcalm,26117,Republican,"Donald Trump",3051,0.351,Montcalm_Michigan
+Michigan,MI,Montmorency,26119,Republican,"Donald Trump",1046,0.51,Montmorency_Michigan
+Michigan,MI,Muskegon,26121,Republican,"Ted Cruz",6478,0.345,Muskegon_Michigan
+Michigan,MI,Newaygo,26123,Republican,"Ted Cruz",3557,0.409,Newaygo_Michigan
+Michigan,MI,Oakland,26125,Republican,"Donald Trump",69399,0.362,Oakland_Michigan
+Michigan,MI,Oceana,26127,Republican,"Ted Cruz",1698,0.377,Oceana_Michigan
+Michigan,MI,Ogemaw,26129,Republican,"Donald Trump",1612,0.505,Ogemaw_Michigan
+Michigan,MI,Ontonagon,26131,Republican,"Donald Trump",519,0.475,Ontonagon_Michigan
+Michigan,MI,Oscoda,26135,Republican,"Donald Trump",705,0.472,Oscoda_Michigan
+Michigan,MI,Otsego,26137,Republican,"Donald Trump",1933,0.45,Otsego_Michigan
+Michigan,MI,Ottawa,26139,Republican,"Ted Cruz",23862,0.398,Ottawa_Michigan
+Michigan,MI,"Presque Isle",26141,Republican,"Donald Trump",916,0.423,"Presque Isle_Michigan"
+Michigan,MI,Roscommon,26143,Republican,"Donald Trump",2257,0.5,Roscommon_Michigan
+Michigan,MI,Saginaw,26145,Republican,"Donald Trump",9106,0.392,Saginaw_Michigan
+Michigan,MI,Sanilac,26151,Republican,"Donald Trump",3279,0.447,Sanilac_Michigan
+Michigan,MI,Schoolcraft,26153,Republican,"Donald Trump",529,0.474,Schoolcraft_Michigan
+Michigan,MI,Shiawassee,26155,Republican,"Donald Trump",3864,0.387,Shiawassee_Michigan
+Michigan,MI,Tuscola,26157,Republican,"Donald Trump",3750,0.424,Tuscola_Michigan
+Michigan,MI,"Van Buren",26159,Republican,"Donald Trump",3287,0.351,"Van Buren_Michigan"
+Michigan,MI,Washtenaw,26161,Republican,"John Kasich",12643,0.341,Washtenaw_Michigan
+Michigan,MI,Wayne,26163,Republican,"Donald Trump",55795,0.405,Wayne_Michigan
+Michigan,MI,Wexford,26165,Republican,"Donald Trump",2578,0.443,Wexford_Michigan
+Mississippi,MS,Alcorn,28003,Republican,"Donald Trump",2901,0.504,Alcorn_Mississippi
+Mississippi,MS,Amite,28005,Republican,"Donald Trump",1178,0.52,Amite_Mississippi
+Mississippi,MS,Attala,28007,Republican,"Donald Trump",1350,0.509,Attala_Mississippi
+Mississippi,MS,Bolivar,28011,Republican,"Donald Trump",1395,0.534,Bolivar_Mississippi
+Mississippi,MS,Chickasaw,28017,Republican,"Donald Trump",1056,0.516,Chickasaw_Mississippi
+Mississippi,MS,Coahoma,28027,Republican,"Donald Trump",598,0.541,Coahoma_Mississippi
+Mississippi,MS,Copiah,28029,Republican,"Donald Trump",2026,0.549,Copiah_Mississippi
+Mississippi,MS,Forrest,28035,Republican,"Donald Trump",4267,0.434,Forrest_Mississippi
+Mississippi,MS,George,28039,Republican,"Donald Trump",2245,0.482,George_Mississippi
+Mississippi,MS,Grenada,28043,Republican,"Donald Trump",1727,0.556,Grenada_Mississippi
+Mississippi,MS,Harrison,28047,Republican,"Donald Trump",12555,0.507,Harrison_Mississippi
+Mississippi,MS,Hinds,28049,Republican,"Donald Trump",6976,0.396,Hinds_Mississippi
+Mississippi,MS,Issaquena,28055,Republican,"Donald Trump",117,0.688,Issaquena_Mississippi
+Mississippi,MS,Itawamba,28057,Republican,"Donald Trump",1905,0.455,Itawamba_Mississippi
+Mississippi,MS,Jones,28067,Republican,"Donald Trump",6388,0.531,Jones_Mississippi
+Mississippi,MS,Kemper,28069,Republican,"Donald Trump",484,0.52,Kemper_Mississippi
+Mississippi,MS,Lamar,28073,Republican,"Donald Trump",5197,0.456,Lamar_Mississippi
+Mississippi,MS,Leake,28079,Republican,"Donald Trump",1413,0.52,Leake_Mississippi
+Mississippi,MS,Leflore,28083,Republican,"Donald Trump",766,0.485,Leflore_Mississippi
+Mississippi,MS,Neshoba,28099,Republican,"Donald Trump",2249,0.498,Neshoba_Mississippi
+Mississippi,MS,Noxubee,28103,Republican,"Ted Cruz",282,0.476,Noxubee_Mississippi
+Mississippi,MS,Oktibbeha,28105,Republican,"Ted Cruz",1937,0.393,Oktibbeha_Mississippi
+Mississippi,MS,"Pearl River",28109,Republican,"Donald Trump",4562,0.503,"Pearl River_Mississippi"
+Mississippi,MS,Pontotoc,28115,Republican,"Ted Cruz",2498,0.449,Pontotoc_Mississippi
+Mississippi,MS,Prentiss,28117,Republican,"Donald Trump",1597,0.47,Prentiss_Mississippi
+Mississippi,MS,Quitman,28119,Republican,"Donald Trump",210,0.529,Quitman_Mississippi
+Mississippi,MS,Rankin,28121,Republican,"Donald Trump",13729,0.469,Rankin_Mississippi
+Mississippi,MS,Sharkey,28125,Republican,"Donald Trump",232,0.57,Sharkey_Mississippi
+Mississippi,MS,Simpson,28127,Republican,"Donald Trump",2420,0.509,Simpson_Mississippi
+Mississippi,MS,Sunflower,28133,Republican,"Donald Trump",897,0.611,Sunflower_Mississippi
+Mississippi,MS,Tallahatchie,28135,Republican,"Donald Trump",769,0.636,Tallahatchie_Mississippi
+Mississippi,MS,Tate,28137,Republican,"Ted Cruz",2034,0.477,Tate_Mississippi
+Mississippi,MS,Tippah,28139,Republican,"Donald Trump",1951,0.489,Tippah_Mississippi
+Mississippi,MS,Tishomingo,28141,Republican,"Donald Trump",1854,0.523,Tishomingo_Mississippi
+Mississippi,MS,Tunica,28143,Republican,"Donald Trump",150,0.558,Tunica_Mississippi
+Mississippi,MS,Walthall,28147,Republican,"Donald Trump",1143,0.578,Walthall_Mississippi
+Mississippi,MS,Yalobusha,28161,Republican,"Donald Trump",1029,0.545,Yalobusha_Mississippi
+Mississippi,MS,Yazoo,28163,Republican,"Donald Trump",1510,0.548,Yazoo_Mississippi
+Missouri,MO,Andrew,29003,Republican,"Donald Trump",1457,0.417,Andrew_Missouri
+Missouri,MO,Atchison,29005,Republican,"Donald Trump",487,0.437,Atchison_Missouri
+Missouri,MO,Audrain,29007,Republican,"Ted Cruz",1642,0.408,Audrain_Missouri
+Missouri,MO,Barton,29011,Republican,"Ted Cruz",1560,0.539,Barton_Missouri
+Missouri,MO,Bates,29013,Republican,"Donald Trump",1306,0.46,Bates_Missouri
+Missouri,MO,Bollinger,29017,Republican,"Donald Trump",1272,0.476,Bollinger_Missouri
+Missouri,MO,Boone,29019,Republican,"Ted Cruz",11219,0.439,Boone_Missouri
+Missouri,MO,Buchanan,29021,Republican,"Donald Trump",4691,0.416,Buchanan_Missouri
+Missouri,MO,Callaway,29027,Republican,"Ted Cruz",3261,0.432,Callaway_Missouri
+Missouri,MO,Camden,29029,Republican,"Donald Trump",5467,0.549,Camden_Missouri
+Missouri,MO,"Cape Girardeau",29031,Republican,"Ted Cruz",7332,0.466,"Cape Girardeau_Missouri"
+Missouri,MO,Cass,29037,Republican,"Ted Cruz",7671,0.434,Cass_Missouri
+Missouri,MO,Cedar,29039,Republican,"Ted Cruz",1404,0.445,Cedar_Missouri
+Missouri,MO,Chariton,29041,Republican,"Donald Trump",597,0.423,Chariton_Missouri
+Missouri,MO,Christian,29043,Republican,"Ted Cruz",10586,0.533,Christian_Missouri
+Missouri,MO,Cole,29051,Republican,"Ted Cruz",6159,0.418,Cole_Missouri
+Missouri,MO,Cooper,29053,Republican,"Ted Cruz",1369,0.445,Cooper_Missouri
+Missouri,MO,Dent,29065,Republican,"Donald Trump",1688,0.514,Dent_Missouri
+Missouri,MO,Dunklin,29069,Republican,"Donald Trump",1781,0.559,Dunklin_Missouri
+Missouri,MO,Gasconade,29073,Republican,"Donald Trump",1429,0.455,Gasconade_Missouri
+Missouri,MO,Gentry,29075,Republican,"Donald Trump",435,0.407,Gentry_Missouri
+Missouri,MO,Greene,29077,Republican,"Ted Cruz",26784,0.517,Greene_Missouri
+Missouri,MO,Hickory,29085,Republican,"Donald Trump",297,0.549,Hickory_Missouri
+Missouri,MO,Holt,29087,Republican,"Donald Trump",504,0.471,Holt_Missouri
+Missouri,MO,Howell,29091,Republican,"Donald Trump",4230,0.5,Howell_Missouri
+Missouri,MO,Jackson,29095,Republican,"Ted Cruz",28661,0.4,Jackson_Missouri
+Missouri,MO,Jasper,29097,Republican,"Ted Cruz",11113,0.537,Jasper_Missouri
+Missouri,MO,LaClede,29105,Republican,"Donald Trump",3493,0.455,LaClede_Missouri
+Missouri,MO,Maries,29125,Republican,"Donald Trump",958,0.503,Maries_Missouri
+Missouri,MO,McDonald,29119,Republican,"Donald Trump",1580,0.443,McDonald_Missouri
+Missouri,MO,Moniteau,29135,Republican,"Ted Cruz",1374,0.464,Moniteau_Missouri
+Missouri,MO,"New Madrid",29143,Republican,"Donald Trump",1376,0.55,"New Madrid_Missouri"
+Missouri,MO,Newton,29145,Republican,"Ted Cruz",6452,0.526,Newton_Missouri
+Missouri,MO,Nodaway,29147,Republican,"Donald Trump",1268,0.371,Nodaway_Missouri
+Missouri,MO,Oregon,29149,Republican,"Donald Trump",941,0.517,Oregon_Missouri
+Missouri,MO,Ozark,29153,Republican,"Donald Trump",1099,0.502,Ozark_Missouri
+Missouri,MO,Pemiscot,29155,Republican,"Donald Trump",1155,0.571,Pemiscot_Missouri
+Missouri,MO,Pettis,29159,Republican,"Donald Trump",3343,0.453,Pettis_Missouri
+Missouri,MO,Phelps,29161,Republican,"Donald Trump",3425,0.453,Phelps_Missouri
+Missouri,MO,Platte,29165,Republican,"Ted Cruz",5798,0.392,Platte_Missouri
+Missouri,MO,Ralls,29173,Republican,"Donald Trump",961,0.468,Ralls_Missouri
+Missouri,MO,Ray,29177,Republican,"Donald Trump",1565,0.442,Ray_Missouri
+Missouri,MO,Reynolds,29179,Republican,"Donald Trump",647,0.587,Reynolds_Missouri
+Missouri,MO,Ripley,29181,Republican,"Donald Trump",1096,0.48,Ripley_Missouri
+Missouri,MO,Scott,29201,Republican,"Donald Trump",3373,0.496,Scott_Missouri
+Missouri,MO,Shannon,29203,Republican,"Donald Trump",808,0.532,Shannon_Missouri
+Missouri,MO,Stoddard,29207,Republican,"Donald Trump",3024,0.52,Stoddard_Missouri
+Missouri,MO,Stone,29209,Republican,"Donald Trump",3928,0.479,Stone_Missouri
+Missouri,MO,Taney,29213,Republican,"Donald Trump",5086,0.474,Taney_Missouri
+Missouri,MO,Texas,29215,Republican,"Donald Trump",2659,0.51,Texas_Missouri
+Missouri,MO,Vernon,29217,Republican,"Donald Trump",1530,0.483,Vernon_Missouri
+Missouri,MO,Webster,29225,Republican,"Ted Cruz",4124,0.513,Webster_Missouri
+Missouri,MO,Wright,29229,Republican,"Donald Trump",1874,0.462,Wright_Missouri
+Nevada,NV,"Carson City",32510,Republican,"Donald Trump",1066,0.434,"Carson City_Nevada"
+Nevada,NV,Churchill,32001,Republican,"Donald Trump",538,0.399,Churchill_Nevada
+Nevada,NV,Clark,32003,Republican,"Donald Trump",20132,0.489,Clark_Nevada
+Nevada,NV,Elko,32007,Republican,"Ted Cruz",1039,0.438,Elko_Nevada
+Nevada,NV,Esmeralda,32009,Republican,"Donald Trump",46,0.622,Esmeralda_Nevada
+Nevada,NV,Eureka,32011,Republican,"Donald Trump",81,0.415,Eureka_Nevada
+Nevada,NV,Humboldt,32013,Republican,"Donald Trump",361,0.418,Humboldt_Nevada
+Nevada,NV,Lander,32015,Republican,"Donald Trump",165,0.398,Lander_Nevada
+Nevada,NV,Lyon,32019,Republican,"Donald Trump",1399,0.482,Lyon_Nevada
+Nevada,NV,Mineral,32021,Republican,"Donald Trump",97,0.508,Mineral_Nevada
+Nevada,NV,Nye,32023,Republican,"Donald Trump",980,0.565,Nye_Nevada
+Nevada,NV,Pershing,32027,Republican,"Donald Trump",118,0.407,Pershing_Nevada
+Nevada,NV,Storey,32029,Republican,"Donald Trump",161,0.429,Storey_Nevada
+Nevada,NV,Washoe,32031,Republican,"Donald Trump",6850,0.441,Washoe_Nevada
+Nevada,NV,"White Pine",32033,Republican,"Donald Trump",172,0.395,"White Pine_Nevada"
+"New Hampshire",NH,Belknap,33001,Republican,"Donald Trump",5505,0.360109897298358,"Belknap_New Hampshire"
+"New Hampshire",NH,Cheshire,33005,Republican,"Donald Trump",4543,0.344950645406226,"Cheshire_New Hampshire"
+"New Hampshire",NH,Coos,33007,Republican,"Donald Trump",2183,0.3829152780214,"Coos_New Hampshire"
+"New Hampshire",NH,Grafton,33009,Republican,"Donald Trump",4898,0.304280300677145,"Grafton_New Hampshire"
+"New Hampshire",NH,Merrimack,33013,Republican,"Donald Trump",10966,0.338174977642088,"Merrimack_New Hampshire"
+"New Hampshire",NH,Rockingham,33015,Republican,"Donald Trump",28716,0.393709639826151,"Rockingham_New Hampshire"
+"New Hampshire",NH,Strafford,33017,Republican,"Donald Trump",7352,0.343760228175995,"Strafford_New Hampshire"
+"North Carolina",NC,Alamance,37001,Republican,"Ted Cruz",6956,0.409,"Alamance_North Carolina"
+"North Carolina",NC,Alexander,37003,Republican,"Ted Cruz",2830,0.455,"Alexander_North Carolina"
+"North Carolina",NC,Alleghany,37005,Republican,"Donald Trump",790,0.497,"Alleghany_North Carolina"
+"North Carolina",NC,Anson,37007,Republican,"Donald Trump",612,0.5,"Anson_North Carolina"
+"North Carolina",NC,Ashe,37009,Republican,"Donald Trump",1993,0.447,"Ashe_North Carolina"
+"North Carolina",NC,Avery,37011,Republican,"Donald Trump",1785,0.426,"Avery_North Carolina"
+"North Carolina",NC,Bertie,37015,Republican,"Ted Cruz",470,0.52,"Bertie_North Carolina"
+"North Carolina",NC,Bladen,37017,Republican,"Donald Trump",1399,0.569,"Bladen_North Carolina"
+"North Carolina",NC,Brunswick,37019,Republican,"Donald Trump",11584,0.525,"Brunswick_North Carolina"
+"North Carolina",NC,Buncombe,37021,Republican,"Ted Cruz",11433,0.419,"Buncombe_North Carolina"
+"North Carolina",NC,Burke,37023,Republican,"Donald Trump",4985,0.441,"Burke_North Carolina"
+"North Carolina",NC,Cabarrus,37025,Republican,"Donald Trump",11300,0.426,"Cabarrus_North Carolina"
+"North Carolina",NC,Caldwell,37027,Republican,"Donald Trump",5599,0.454,"Caldwell_North Carolina"
+"North Carolina",NC,Carteret,37031,Republican,"Donald Trump",7077,0.515,"Carteret_North Carolina"
+"North Carolina",NC,Caswell,37033,Republican,"Donald Trump",995,0.497,"Caswell_North Carolina"
+"North Carolina",NC,Catawba,37035,Republican,"Donald Trump",10991,0.44,"Catawba_North Carolina"
+"North Carolina",NC,Chowan,37041,Republican,"Donald Trump",694,0.435,"Chowan_North Carolina"
+"North Carolina",NC,Columbus,37047,Republican,"Donald Trump",2162,0.607,"Columbus_North Carolina"
+"North Carolina",NC,Craven,37049,Republican,"Donald Trump",5608,0.447,"Craven_North Carolina"
+"North Carolina",NC,Cumberland,37051,Republican,"Donald Trump",10763,0.474,"Cumberland_North Carolina"
+"North Carolina",NC,Dare,37055,Republican,"Donald Trump",2650,0.501,"Dare_North Carolina"
+"North Carolina",NC,Davie,37059,Republican,"Donald Trump",3847,0.411,"Davie_North Carolina"
+"North Carolina",NC,Duplin,37061,Republican,"Donald Trump",2300,0.481,"Duplin_North Carolina"
+"North Carolina",NC,Durham,37063,Republican,"Ted Cruz",6144,0.377,"Durham_North Carolina"
+"North Carolina",NC,Edgecombe,37065,Republican,"Donald Trump",1160,0.454,"Edgecombe_North Carolina"
+"North Carolina",NC,Forsyth,37067,Republican,"Ted Cruz",15888,0.384,"Forsyth_North Carolina"
+"North Carolina",NC,Gaston,37071,Republican,"Donald Trump",11528,0.454,"Gaston_North Carolina"
+"North Carolina",NC,Gates,37073,Republican,"Donald Trump",387,0.519,"Gates_North Carolina"
+"North Carolina",NC,Granville,37077,Republican,"Donald Trump",2215,0.433,"Granville_North Carolina"
+"North Carolina",NC,Guilford,37081,Republican,"Ted Cruz",20265,0.38,"Guilford_North Carolina"
+"North Carolina",NC,Harnett,37085,Republican,"Donald Trump",4943,0.443,"Harnett_North Carolina"
+"North Carolina",NC,Haywood,37087,Republican,"Donald Trump",3092,0.398,"Haywood_North Carolina"
+"North Carolina",NC,Henderson,37089,Republican,"Ted Cruz",8301,0.401,"Henderson_North Carolina"
+"North Carolina",NC,Hertford,37091,Republican,"Donald Trump",359,0.486,"Hertford_North Carolina"
+"North Carolina",NC,Hoke,37093,Republican,"Donald Trump",1331,0.497,"Hoke_North Carolina"
+"North Carolina",NC,Hyde,37095,Republican,"Donald Trump",218,0.525,"Hyde_North Carolina"
+"North Carolina",NC,Iredell,37097,Republican,"Donald Trump",12861,0.462,"Iredell_North Carolina"
+"North Carolina",NC,Johnston,37101,Republican,"Ted Cruz",10826,0.441,"Johnston_North Carolina"
+"North Carolina",NC,Lenoir,37107,Republican,"Donald Trump",2277,0.457,"Lenoir_North Carolina"
+"North Carolina",NC,Lincoln,37109,Republican,"Donald Trump",6293,0.458,"Lincoln_North Carolina"
+"North Carolina",NC,McDowell,37111,Republican,"Donald Trump",2552,0.412,"McDowell_North Carolina"
+"North Carolina",NC,Mecklenburg,37119,Republican,"Donald Trump",28531,0.325,"Mecklenburg_North Carolina"
+"North Carolina",NC,Mitchell,37121,Republican,"Donald Trump",1775,0.468,"Mitchell_North Carolina"
+"North Carolina",NC,Moore,37125,Republican,"Donald Trump",7347,0.407,"Moore_North Carolina"
+"North Carolina",NC,Nash,37127,Republican,"Ted Cruz",4578,0.428,"Nash_North Carolina"
+"North Carolina",NC,"New Hanover",37129,Republican,"Donald Trump",12631,0.444,"New Hanover_North Carolina"
+"North Carolina",NC,Onslow,37133,Republican,"Donald Trump",8343,0.484,"Onslow_North Carolina"
+"North Carolina",NC,Pamlico,37137,Republican,"Donald Trump",999,0.509,"Pamlico_North Carolina"
+"North Carolina",NC,Pasquotank,37139,Republican,"Donald Trump",1355,0.472,"Pasquotank_North Carolina"
+"North Carolina",NC,Pender,37141,Republican,"Donald Trump",4033,0.525,"Pender_North Carolina"
+"North Carolina",NC,Perquimans,37143,Republican,"Donald Trump",726,0.441,"Perquimans_North Carolina"
+"North Carolina",NC,Person,37145,Republican,"Donald Trump",1872,0.457,"Person_North Carolina"
+"North Carolina",NC,Pitt,37147,Republican,"Ted Cruz",6573,0.427,"Pitt_North Carolina"
+"North Carolina",NC,Randolph,37151,Republican,"Donald Trump",9108,0.428,"Randolph_North Carolina"
+"North Carolina",NC,Robeson,37155,Republican,"Donald Trump",2090,0.508,"Robeson_North Carolina"
+"North Carolina",NC,Rowan,37159,Republican,"Donald Trump",9369,0.461,"Rowan_North Carolina"
+"North Carolina",NC,Sampson,37163,Republican,"Donald Trump",3360,0.481,"Sampson_North Carolina"
+"North Carolina",NC,Scotland,37165,Republican,"Donald Trump",956,0.489,"Scotland_North Carolina"
+"North Carolina",NC,Stanly,37167,Republican,"Donald Trump",5202,0.492,"Stanly_North Carolina"
+"North Carolina",NC,Stokes,37169,Republican,"Donald Trump",3776,0.46,"Stokes_North Carolina"
+"North Carolina",NC,Surry,37171,Republican,"Donald Trump",4213,0.443,"Surry_North Carolina"
+"North Carolina",NC,Swain,37173,Republican,"Donald Trump",621,0.455,"Swain_North Carolina"
+"North Carolina",NC,Transylvania,37175,Republican,"Ted Cruz",2139,0.371,"Transylvania_North Carolina"
+"North Carolina",NC,Tyrrell,37177,Republican,"Donald Trump",141,0.442,"Tyrrell_North Carolina"
+"North Carolina",NC,Union,37179,Republican,"Donald Trump",12641,0.397,"Union_North Carolina"
+"North Carolina",NC,Vance,37181,Republican,"Donald Trump",1017,0.503,"Vance_North Carolina"
+"North Carolina",NC,Wake,37183,Republican,"Ted Cruz",48462,0.404,"Wake_North Carolina"
+"North Carolina",NC,Watauga,37189,Republican,"Ted Cruz",2719,0.372,"Watauga_North Carolina"
+"North Carolina",NC,Wilkes,37193,Republican,"Donald Trump",5889,0.466,"Wilkes_North Carolina"
+"North Carolina",NC,Yadkin,37197,Republican,"Donald Trump",3436,0.443,"Yadkin_North Carolina"
+"North Carolina",NC,Yancey,37199,Republican,"Donald Trump",1174,0.407,"Yancey_North Carolina"
+Ohio,OH,Allen,39003,Republican,"John Kasich",8719,0.426,Allen_Ohio
+Ohio,OH,Ashland,39005,Republican,"John Kasich",5139,0.446,Ashland_Ohio
+Ohio,OH,Ashtabula,39007,Republican,"Donald Trump",6127,0.442,Ashtabula_Ohio
+Ohio,OH,Athens,39009,Republican,"Donald Trump",2621,0.424,Athens_Ohio
+Ohio,OH,Auglaize,39011,Republican,"John Kasich",4998,0.438,Auglaize_Ohio
+Ohio,OH,Belmont,39013,Republican,"Donald Trump",5313,0.493,Belmont_Ohio
+Ohio,OH,Brown,39015,Republican,"Donald Trump",4564,0.495,Brown_Ohio
+Ohio,OH,Butler,39017,Republican,"John Kasich",28606,0.416,Butler_Ohio
+Ohio,OH,Clermont,39025,Republican,"Donald Trump",17186,0.404,Clermont_Ohio
+Ohio,OH,Clinton,39027,Republican,"Donald Trump",3938,0.433,Clinton_Ohio
+Ohio,OH,Columbiana,39029,Republican,"Donald Trump",8823,0.467,Columbiana_Ohio
+Ohio,OH,Coshocton,39031,Republican,"Donald Trump",2747,0.421,Coshocton_Ohio
+Ohio,OH,Cuyahoga,39035,Republican,"John Kasich",76674,0.544,Cuyahoga_Ohio
+Ohio,OH,Darke,39037,Republican,"Donald Trump",5437,0.426,Darke_Ohio
+Ohio,OH,Defiance,39039,Republican,"John Kasich",3956,0.471,Defiance_Ohio
+Ohio,OH,Delaware,39041,Republican,"John Kasich",32885,0.639,Delaware_Ohio
+Ohio,OH,Erie,39043,Republican,"John Kasich",5588,0.438,Erie_Ohio
+Ohio,OH,Fairfield,39045,Republican,"John Kasich",15478,0.488,Fairfield_Ohio
+Ohio,OH,Franklin,39049,Republican,"John Kasich",101217,0.637,Franklin_Ohio
+Ohio,OH,Gallia,39053,Republican,"Donald Trump",2900,0.465,Gallia_Ohio
+Ohio,OH,Geauga,39055,Republican,"John Kasich",12034,0.504,Geauga_Ohio
+Ohio,OH,Guernsey,39059,Republican,"Donald Trump",3029,0.438,Guernsey_Ohio
+Ohio,OH,Hamilton,39061,Republican,"John Kasich",67510,0.479,Hamilton_Ohio
+Ohio,OH,Hancock,39063,Republican,"John Kasich",8496,0.471,Hancock_Ohio
+Ohio,OH,Highland,39071,Republican,"Donald Trump",3831,0.486,Highland_Ohio
+Ohio,OH,Hocking,39073,Republican,"Donald Trump",2007,0.414,Hocking_Ohio
+Ohio,OH,Holmes,39075,Republican,"John Kasich",2347,0.411,Holmes_Ohio
+Ohio,OH,Huron,39077,Republican,"John Kasich",4019,0.414,Huron_Ohio
+Ohio,OH,Lawrence,39087,Republican,"Donald Trump",5764,0.473,Lawrence_Ohio
+Ohio,OH,Licking,39089,Republican,"John Kasich",17357,0.5,Licking_Ohio
+Ohio,OH,Logan,39091,Republican,"Donald Trump",4064,0.391,Logan_Ohio
+Ohio,OH,Lorain,39093,Republican,"John Kasich",21544,0.486,Lorain_Ohio
+Ohio,OH,Lucas,39095,Republican,"John Kasich",24633,0.477,Lucas_Ohio
+Ohio,OH,Mahoning,39099,Republican,"Donald Trump",17139,0.506,Mahoning_Ohio
+Ohio,OH,Medina,39103,Republican,"John Kasich",18572,0.489,Medina_Ohio
+Ohio,OH,Meigs,39105,Republican,"Donald Trump",2378,0.475,Meigs_Ohio
+Ohio,OH,Mercer,39107,Republican,"John Kasich",4488,0.431,Mercer_Ohio
+Ohio,OH,Miami,39109,Republican,"John Kasich",11050,0.415,Miami_Ohio
+Ohio,OH,Morrow,39117,Republican,"John Kasich",3440,0.392,Morrow_Ohio
+Ohio,OH,Muskingum,39119,Republican,"John Kasich",6599,0.435,Muskingum_Ohio
+Ohio,OH,Noble,39121,Republican,"Donald Trump",1183,0.469,Noble_Ohio
+Ohio,OH,Perry,39127,Republican,"Donald Trump",2539,0.435,Perry_Ohio
+Ohio,OH,Pickaway,39129,Republican,"John Kasich",4885,0.457,Pickaway_Ohio
+Ohio,OH,Portage,39133,Republican,"John Kasich",10921,0.432,Portage_Ohio
+Ohio,OH,Preble,39135,Republican,"Donald Trump",5019,0.483,Preble_Ohio
+Ohio,OH,Ross,39141,Republican,"John Kasich",4918,0.405,Ross_Ohio
+Ohio,OH,Sandusky,39143,Republican,"John Kasich",5064,0.429,Sandusky_Ohio
+Ohio,OH,Scioto,39145,Republican,"Donald Trump",5729,0.501,Scioto_Ohio
+Ohio,OH,Seneca,39147,Republican,"John Kasich",4596,0.452,Seneca_Ohio
+Ohio,OH,Stark,39151,Republican,"John Kasich",33297,0.481,Stark_Ohio
+Ohio,OH,Summit,39153,Republican,"John Kasich",79040,0.505,Summit_Ohio
+Ohio,OH,Trumbull,39155,Republican,"Donald Trump",15125,0.526,Trumbull_Ohio
+Ohio,OH,Tuscarawas,39157,Republican,"Donald Trump",6025,0.412,Tuscarawas_Ohio
+Ohio,OH,"Van Wert",39161,Republican,"John Kasich",2688,0.38,"Van Wert_Ohio"
+Ohio,OH,Vinton,39163,Republican,"Donald Trump",1023,0.484,Vinton_Ohio
+Ohio,OH,Warren,39165,Republican,"John Kasich",22870,0.428,Warren_Ohio
+Ohio,OH,Williams,39171,Republican,"John Kasich",3943,0.459,Williams_Ohio
+Ohio,OH,Wood,39173,Republican,"John Kasich",10968,0.485,Wood_Ohio
+Ohio,OH,Wyandot,39175,Republican,"John Kasich",1896,0.413,Wyandot_Ohio
+Oklahoma,OK,Alfalfa,40003,Republican,"Ted Cruz",421,0.368,Alfalfa_Oklahoma
+Oklahoma,OK,Atoka,40005,Republican,"Donald Trump",278,0.374,Atoka_Oklahoma
+Oklahoma,OK,Beaver,40007,Republican,"Ted Cruz",557,0.48,Beaver_Oklahoma
+Oklahoma,OK,Beckham,40009,Republican,"Ted Cruz",900,0.412,Beckham_Oklahoma
+Oklahoma,OK,Canadian,40017,Republican,"Ted Cruz",8105,0.362,Canadian_Oklahoma
+Oklahoma,OK,Cimarron,40025,Republican,"Ted Cruz",204,0.422,Cimarron_Oklahoma
+Oklahoma,OK,Cleveland,40027,Republican,"Ted Cruz",12328,0.344,Cleveland_Oklahoma
+Oklahoma,OK,Coal,40029,Republican,"Donald Trump",102,0.397,Coal_Oklahoma
+Oklahoma,OK,Comanche,40031,Republican,"Ted Cruz",3419,0.417,Comanche_Oklahoma
+Oklahoma,OK,Cotton,40033,Republican,"Ted Cruz",317,0.524,Cotton_Oklahoma
+Oklahoma,OK,Craig,40035,Republican,"Donald Trump",418,0.347,Craig_Oklahoma
+Oklahoma,OK,Creek,40037,Republican,"Ted Cruz",3812,0.37,Creek_Oklahoma
+Oklahoma,OK,Custer,40039,Republican,"Ted Cruz",1491,0.425,Custer_Oklahoma
+Oklahoma,OK,Dewey,40043,Republican,"Ted Cruz",363,0.426,Dewey_Oklahoma
+Oklahoma,OK,Garfield,40047,Republican,"Ted Cruz",2798,0.307,Garfield_Oklahoma
+Oklahoma,OK,Garvin,40049,Republican,"Ted Cruz",1028,0.393,Garvin_Oklahoma
+Oklahoma,OK,Grady,40051,Republican,"Ted Cruz",3020,0.394,Grady_Oklahoma
+Oklahoma,OK,Greer,40055,Republican,"Donald Trump",111,0.379,Greer_Oklahoma
+Oklahoma,OK,Harmon,40057,Republican,"Ted Cruz",59,0.328,Harmon_Oklahoma
+Oklahoma,OK,Harper,40059,Republican,"Ted Cruz",280,0.418,Harper_Oklahoma
+Oklahoma,OK,Hughes,40063,Republican,"Ted Cruz",316,0.416,Hughes_Oklahoma
+Oklahoma,OK,Kay,40071,Republican,"Ted Cruz",2190,0.341,Kay_Oklahoma
+Oklahoma,OK,Kingfisher,40073,Republican,"Ted Cruz",958,0.341,Kingfisher_Oklahoma
+Oklahoma,OK,Kiowa,40075,Republican,"Ted Cruz",301,0.382,Kiowa_Oklahoma
+Oklahoma,OK,Latimer,40077,Republican,"Donald Trump",179,0.367,Latimer_Oklahoma
+Oklahoma,OK,Love,40085,Republican,"Donald Trump",216,0.422,Love_Oklahoma
+Oklahoma,OK,Major,40093,Republican,"Ted Cruz",816,0.429,Major_Oklahoma
+Oklahoma,OK,Mayes,40097,Republican,"Donald Trump",1570,0.353,Mayes_Oklahoma
+Oklahoma,OK,McClain,40087,Republican,"Ted Cruz",2484,0.406,McClain_Oklahoma
+Oklahoma,OK,McCurtain,40089,Republican,"Ted Cruz",473,0.348,McCurtain_Oklahoma
+Oklahoma,OK,Muskogee,40101,Republican,"Ted Cruz",1561,0.31,Muskogee_Oklahoma
+Oklahoma,OK,Nowata,40105,Republican,"Ted Cruz",448,0.351,Nowata_Oklahoma
+Oklahoma,OK,Okfuskee,40107,Republican,"Ted Cruz",311,0.396,Okfuskee_Oklahoma
+Oklahoma,OK,Oklahoma,40109,Republican,"Marco Rubio",29030,0.328,Oklahoma_Oklahoma
+Oklahoma,OK,Okmulgee,40111,Republican,"Ted Cruz",1176,0.379,Okmulgee_Oklahoma
+Oklahoma,OK,Osage,40113,Republican,"Ted Cruz",2048,0.38,Osage_Oklahoma
+Oklahoma,OK,Pawnee,40117,Republican,"Ted Cruz",743,0.378,Pawnee_Oklahoma
+Oklahoma,OK,Payne,40119,Republican,"Marco Rubio",2869,0.311,Payne_Oklahoma
+Oklahoma,OK,Pittsburg,40121,Republican,"Donald Trump",1086,0.374,Pittsburg_Oklahoma
+Oklahoma,OK,Pottawatomie,40125,Republican,"Ted Cruz",2914,0.37,Pottawatomie_Oklahoma
+Oklahoma,OK,Pushmataha,40127,Republican,"Donald Trump",219,0.396,Pushmataha_Oklahoma
+Oklahoma,OK,"Roger Mills",40129,Republican,"Ted Cruz",217,0.453,"Roger Mills_Oklahoma"
+Oklahoma,OK,Rogers,40131,Republican,"Ted Cruz",5850,0.372,Rogers_Oklahoma
+Oklahoma,OK,Sequoyah,40135,Republican,"Ted Cruz",1024,0.374,Sequoyah_Oklahoma
+Oklahoma,OK,Stephens,40137,Republican,"Ted Cruz",2428,0.446,Stephens_Oklahoma
+Oklahoma,OK,Tillman,40141,Republican,"Ted Cruz",280,0.413,Tillman_Oklahoma
+Oklahoma,OK,Tulsa,40143,Republican,"Ted Cruz",27829,0.316,Tulsa_Oklahoma
+Oklahoma,OK,Wagoner,40145,Republican,"Ted Cruz",4459,0.387,Wagoner_Oklahoma
+Oklahoma,OK,Washita,40149,Republican,"Ted Cruz",560,0.433,Washita_Oklahoma
+Oklahoma,OK,Woods,40151,Republican,"Ted Cruz",574,0.361,Woods_Oklahoma
+Oklahoma,OK,Woodward,40153,Republican,"Ted Cruz",1235,0.376,Woodward_Oklahoma
+"South Carolina",SC,Abbeville,45001,Republican,"Donald Trump",1353,0.369,"Abbeville_South Carolina"
+"South Carolina",SC,Aiken,45003,Republican,"Donald Trump",9027,0.316,"Aiken_South Carolina"
+"South Carolina",SC,Allendale,45005,Republican,"Donald Trump",160,0.443,"Allendale_South Carolina"
+"South Carolina",SC,Anderson,45007,Republican,"Donald Trump",10953,0.319,"Anderson_South Carolina"
+"South Carolina",SC,Bamberg,45009,Republican,"Donald Trump",481,0.401,"Bamberg_South Carolina"
+"South Carolina",SC,Barnwell,45011,Republican,"Donald Trump",1106,0.427,"Barnwell_South Carolina"
+"South Carolina",SC,Beaufort,45013,Republican,"Donald Trump",9912,0.301,"Beaufort_South Carolina"
+"South Carolina",SC,Berkeley,45015,Republican,"Donald Trump",9406,0.34,"Berkeley_South Carolina"
+"South Carolina",SC,Charleston,45019,Republican,"Marco Rubio",15247,0.279,"Charleston_South Carolina"
+"South Carolina",SC,Chester,45023,Republican,"Donald Trump",1403,0.421,"Chester_South Carolina"
+"South Carolina",SC,Clarendon,45027,Republican,"Donald Trump",1601,0.373,"Clarendon_South Carolina"
+"South Carolina",SC,Colleton,45029,Republican,"Donald Trump",2326,0.433,"Colleton_South Carolina"
+"South Carolina",SC,Darlington,45031,Republican,"Donald Trump",3352,0.378,"Darlington_South Carolina"
+"South Carolina",SC,Dillon,45033,Republican,"Donald Trump",972,0.363,"Dillon_South Carolina"
+"South Carolina",SC,Dorchester,45035,Republican,"Donald Trump",6949,0.315,"Dorchester_South Carolina"
+"South Carolina",SC,Edgefield,45037,Republican,"Donald Trump",1366,0.341,"Edgefield_South Carolina"
+"South Carolina",SC,Florence,45041,Republican,"Donald Trump",6004,0.331,"Florence_South Carolina"
+"South Carolina",SC,Georgetown,45043,Republican,"Donald Trump",4620,0.402,"Georgetown_South Carolina"
+"South Carolina",SC,Greenville,45045,Republican,"Donald Trump",24913,0.268,"Greenville_South Carolina"
+"South Carolina",SC,Greenwood,45047,Republican,"Donald Trump",3029,0.288,"Greenwood_South Carolina"
+"South Carolina",SC,Horry,45051,Republican,"Donald Trump",26445,0.492,"Horry_South Carolina"
+"South Carolina",SC,Kershaw,45055,Republican,"Donald Trump",3673,0.344,"Kershaw_South Carolina"
+"South Carolina",SC,Lancaster,45057,Republican,"Donald Trump",4190,0.339,"Lancaster_South Carolina"
+"South Carolina",SC,Laurens,45059,Republican,"Donald Trump",3321,0.345,"Laurens_South Carolina"
+"South Carolina",SC,Lexington,45063,Republican,"Donald Trump",16361,0.3,"Lexington_South Carolina"
+"South Carolina",SC,Marlboro,45069,Republican,"Donald Trump",737,0.421,"Marlboro_South Carolina"
+"South Carolina",SC,McCormick,45065,Republican,"Donald Trump",615,0.339,"McCormick_South Carolina"
+"South Carolina",SC,Newberry,45071,Republican,"Donald Trump",2024,0.344,"Newberry_South Carolina"
+"South Carolina",SC,Oconee,45073,Republican,"Donald Trump",4424,0.284,"Oconee_South Carolina"
+"South Carolina",SC,Orangeburg,45075,Republican,"Donald Trump",2536,0.38,"Orangeburg_South Carolina"
+"South Carolina",SC,Pickens,45077,Republican,"Donald Trump",7136,0.301,"Pickens_South Carolina"
+"South Carolina",SC,Richland,45079,Republican,"Marco Rubio",10955,0.279,"Richland_South Carolina"
+"South Carolina",SC,Saluda,45081,Republican,"Donald Trump",1248,0.364,"Saluda_South Carolina"
+"South Carolina",SC,Spartanburg,45083,Republican,"Donald Trump",15249,0.327,"Spartanburg_South Carolina"
+"South Carolina",SC,Williamsburg,45089,Republican,"Donald Trump",1186,0.433,"Williamsburg_South Carolina"
+"South Carolina",SC,York,45091,Republican,"Donald Trump",12031,0.317,"York_South Carolina"
+Tennessee,TN,Bledsoe,47007,Republican,"Donald Trump",1009,0.492,Bledsoe_Tennessee
+Tennessee,TN,Blount,47009,Republican,"Donald Trump",8009,0.377,Blount_Tennessee
+Tennessee,TN,Bradley,47011,Republican,"Donald Trump",6103,0.366,Bradley_Tennessee
+Tennessee,TN,Cannon,47015,Republican,"Donald Trump",1244,0.53,Cannon_Tennessee
+Tennessee,TN,Carter,47019,Republican,"Donald Trump",4266,0.444,Carter_Tennessee
+Tennessee,TN,Cheatham,47021,Republican,"Donald Trump",2530,0.443,Cheatham_Tennessee
+Tennessee,TN,Claiborne,47025,Republican,"Donald Trump",2022,0.538,Claiborne_Tennessee
+Tennessee,TN,Cocke,47029,Republican,"Donald Trump",3200,0.531,Cocke_Tennessee
+Tennessee,TN,Crockett,47033,Republican,"Donald Trump",995,0.475,Crockett_Tennessee
+Tennessee,TN,Davidson,47037,Republican,"Donald Trump",17082,0.31,Davidson_Tennessee
+Tennessee,TN,Dickson,47043,Republican,"Donald Trump",2730,0.438,Dickson_Tennessee
+Tennessee,TN,Dyer,47045,Republican,"Donald Trump",2400,0.472,Dyer_Tennessee
+Tennessee,TN,Fentress,47049,Republican,"Donald Trump",1418,0.486,Fentress_Tennessee
+Tennessee,TN,Gibson,47053,Republican,"Donald Trump",2878,0.417,Gibson_Tennessee
+Tennessee,TN,Giles,47055,Republican,"Donald Trump",1910,0.506,Giles_Tennessee
+Tennessee,TN,Grainger,47057,Republican,"Donald Trump",1767,0.504,Grainger_Tennessee
+Tennessee,TN,Hamblen,47063,Republican,"Donald Trump",4690,0.444,Hamblen_Tennessee
+Tennessee,TN,Hardeman,47069,Republican,"Donald Trump",1170,0.493,Hardeman_Tennessee
+Tennessee,TN,Hawkins,47073,Republican,"Donald Trump",4426,0.483,Hawkins_Tennessee
+Tennessee,TN,Hickman,47081,Republican,"Donald Trump",1325,0.47,Hickman_Tennessee
+Tennessee,TN,Humphreys,47085,Republican,"Donald Trump",1218,0.517,Humphreys_Tennessee
+Tennessee,TN,Knox,47093,Republican,"Donald Trump",20985,0.324,Knox_Tennessee
+Tennessee,TN,Lewis,47101,Republican,"Donald Trump",809,0.507,Lewis_Tennessee
+Tennessee,TN,Loudon,47105,Republican,"Donald Trump",4198,0.402,Loudon_Tennessee
+Tennessee,TN,Maury,47119,Republican,"Donald Trump",4655,0.397,Maury_Tennessee
+Tennessee,TN,McMinn,47107,Republican,"Donald Trump",3604,0.421,McMinn_Tennessee
+Tennessee,TN,McNairy,47109,Republican,"Donald Trump",1822,0.485,McNairy_Tennessee
+Tennessee,TN,Obion,47131,Republican,"Donald Trump",1908,0.425,Obion_Tennessee
+Tennessee,TN,Overton,47133,Republican,"Donald Trump",1582,0.471,Overton_Tennessee
+Tennessee,TN,Pickett,47137,Republican,"Donald Trump",594,0.5,Pickett_Tennessee
+Tennessee,TN,Rhea,47143,Republican,"Donald Trump",2339,0.441,Rhea_Tennessee
+Tennessee,TN,Roane,47145,Republican,"Donald Trump",3634,0.424,Roane_Tennessee
+Tennessee,TN,Robertson,47147,Republican,"Donald Trump",4077,0.413,Robertson_Tennessee
+Tennessee,TN,Rutherford,47149,Republican,"Donald Trump",13229,0.359,Rutherford_Tennessee
+Tennessee,TN,Sequatchie,47153,Republican,"Donald Trump",1046,0.488,Sequatchie_Tennessee
+Tennessee,TN,Sevier,47155,Republican,"Donald Trump",7686,0.468,Sevier_Tennessee
+Tennessee,TN,Shelby,47157,Republican,"Donald Trump",20715,0.299,Shelby_Tennessee
+Tennessee,TN,Stewart,47161,Republican,"Donald Trump",953,0.496,Stewart_Tennessee
+Tennessee,TN,Sullivan,47163,Republican,"Donald Trump",8718,0.385,Sullivan_Tennessee
+Tennessee,TN,Sumner,47165,Republican,"Donald Trump",9708,0.369,Sumner_Tennessee
+Tennessee,TN,Tipton,47167,Republican,"Donald Trump",3618,0.43,Tipton_Tennessee
+Tennessee,TN,Trousdale,47169,Republican,"Donald Trump",453,0.49,Trousdale_Tennessee
+Tennessee,TN,Unicoi,47171,Republican,"Donald Trump",1813,0.505,Unicoi_Tennessee
+Tennessee,TN,Weakley,47183,Republican,"Donald Trump",1764,0.412,Weakley_Tennessee
+Tennessee,TN,Wilson,47189,Republican,"Donald Trump",8570,0.388,Wilson_Tennessee
+Texas,TX,Andrews,48003,Republican,"Ted Cruz",1349,0.465,Andrews_Texas
+Texas,TX,Angelina,48005,Republican,"Ted Cruz",6875,0.507,Angelina_Texas
+Texas,TX,Aransas,48007,Republican,"Donald Trump",2091,0.393,Aransas_Texas
+Texas,TX,Archer,48009,Republican,"Ted Cruz",1215,0.492,Archer_Texas
+Texas,TX,Armstrong,48011,Republican,"Ted Cruz",380,0.49,Armstrong_Texas
+Texas,TX,Atascosa,48013,Republican,"Ted Cruz",2333,0.52,Atascosa_Texas
+Texas,TX,Austin,48015,Republican,"Ted Cruz",3201,0.525,Austin_Texas
+Texas,TX,Bailey,48017,Republican,"Ted Cruz",496,0.519,Bailey_Texas
+Texas,TX,Bandera,48019,Republican,"Ted Cruz",2268,0.432,Bandera_Texas
+Texas,TX,Bastrop,48021,Republican,"Ted Cruz",4202,0.391,Bastrop_Texas
+Texas,TX,Baylor,48023,Republican,"Ted Cruz",355,0.429,Baylor_Texas
+Texas,TX,Bee,48025,Republican,"Ted Cruz",1509,0.5,Bee_Texas
+Texas,TX,Bell,48027,Republican,"Ted Cruz",13994,0.445,Bell_Texas
+Texas,TX,Bexar,48029,Republican,"Ted Cruz",54115,0.408,Bexar_Texas
+Texas,TX,Blanco,48031,Republican,"Ted Cruz",1379,0.458,Blanco_Texas
+Texas,TX,Borden,48033,Republican,"Ted Cruz",164,0.529,Borden_Texas
+Texas,TX,Bosque,48035,Republican,"Ted Cruz",2132,0.507,Bosque_Texas
+Texas,TX,Bowie,48037,Republican,"Ted Cruz",7057,0.43,Bowie_Texas
+Texas,TX,Brazoria,48039,Republican,"Ted Cruz",19993,0.51,Brazoria_Texas
+Texas,TX,Brazos,48041,Republican,"Ted Cruz",12049,0.472,Brazos_Texas
+Texas,TX,Brewster,48043,Republican,"Ted Cruz",471,0.386,Brewster_Texas
+Texas,TX,Briscoe,48045,Republican,"Ted Cruz",244,0.537,Briscoe_Texas
+Texas,TX,Burleson,48051,Republican,"Ted Cruz",1711,0.517,Burleson_Texas
+Texas,TX,Burnet,48053,Republican,"Ted Cruz",4026,0.397,Burnet_Texas
+Texas,TX,Callahan,48059,Republican,"Ted Cruz",1689,0.497,Callahan_Texas
+Texas,TX,Cameron,48061,Republican,"Ted Cruz",4451,0.352,Cameron_Texas
+Texas,TX,Camp,48063,Republican,"Ted Cruz",863,0.436,Camp_Texas
+Texas,TX,Carson,48065,Republican,"Ted Cruz",854,0.554,Carson_Texas
+Texas,TX,Castro,48069,Republican,"Ted Cruz",496,0.481,Castro_Texas
+Texas,TX,Chambers,48071,Republican,"Ted Cruz",3758,0.534,Chambers_Texas
+Texas,TX,Childress,48075,Republican,"Ted Cruz",444,0.451,Childress_Texas
+Texas,TX,Cochran,48079,Republican,"Ted Cruz",353,0.471,Cochran_Texas
+Texas,TX,Coke,48081,Republican,"Ted Cruz",405,0.474,Coke_Texas
+Texas,TX,Coleman,48083,Republican,"Ted Cruz",1149,0.505,Coleman_Texas
+Texas,TX,Collin,48085,Republican,"Ted Cruz",46094,0.396,Collin_Texas
+Texas,TX,Collingsworth,48087,Republican,"Ted Cruz",266,0.467,Collingsworth_Texas
+Texas,TX,Colorado,48089,Republican,"Ted Cruz",1956,0.52,Colorado_Texas
+Texas,TX,Comal,48091,Republican,"Ted Cruz",13004,0.452,Comal_Texas
+Texas,TX,Concho,48095,Republican,"Ted Cruz",280,0.408,Concho_Texas
+Texas,TX,Cooke,48097,Republican,"Ted Cruz",4143,0.474,Cooke_Texas
+Texas,TX,Coryell,48099,Republican,"Ted Cruz",3327,0.43,Coryell_Texas
+Texas,TX,Cottle,48101,Republican,"Ted Cruz",168,0.56,Cottle_Texas
+Texas,TX,Crane,48103,Republican,"Ted Cruz",468,0.453,Crane_Texas
+Texas,TX,Crosby,48107,Republican,"Ted Cruz",353,0.497,Crosby_Texas
+Texas,TX,Culberson,48109,Republican,"Ted Cruz",36,0.45,Culberson_Texas
+Texas,TX,Dallam,48111,Republican,"Ted Cruz",390,0.467,Dallam_Texas
+Texas,TX,Dallas,48113,Republican,"Ted Cruz",61072,0.35,Dallas_Texas
+Texas,TX,"De Witt",48123,Republican,"Ted Cruz",1772,0.492,"De Witt_Texas"
+Texas,TX,"Deaf Smith",48117,Republican,"Ted Cruz",993,0.513,"Deaf Smith_Texas"
+Texas,TX,Denton,48121,Republican,"Ted Cruz",39404,0.411,Denton_Texas
+Texas,TX,Dickens,48125,Republican,"Ted Cruz",267,0.457,Dickens_Texas
+Texas,TX,Dimmit,48127,Republican,"Ted Cruz",55,0.55,Dimmit_Texas
+Texas,TX,Donley,48129,Republican,"Ted Cruz",358,0.445,Donley_Texas
+Texas,TX,Eastland,48133,Republican,"Ted Cruz",2221,0.575,Eastland_Texas
+Texas,TX,Ector,48135,Republican,"Ted Cruz",7232,0.457,Ector_Texas
+Texas,TX,"El Paso",48141,Republican,"Ted Cruz",10919,0.38,"El Paso_Texas"
+Texas,TX,Ellis,48139,Republican,"Ted Cruz",12546,0.488,Ellis_Texas
+Texas,TX,Erath,48143,Republican,"Ted Cruz",3286,0.468,Erath_Texas
+Texas,TX,Falls,48145,Republican,"Ted Cruz",1150,0.456,Falls_Texas
+Texas,TX,Fisher,48151,Republican,"Ted Cruz",306,0.538,Fisher_Texas
+Texas,TX,Foard,48155,Republican,"Ted Cruz",18,0.581,Foard_Texas
+Texas,TX,"Fort Bend",48157,Republican,"Ted Cruz",31422,0.458,"Fort Bend_Texas"
+Texas,TX,Freestone,48161,Republican,"Ted Cruz",2204,0.457,Freestone_Texas
+Texas,TX,Frio,48163,Republican,"Ted Cruz",198,0.535,Frio_Texas
+Texas,TX,Gaines,48165,Republican,"Ted Cruz",1274,0.522,Gaines_Texas
+Texas,TX,Garza,48169,Republican,"Ted Cruz",574,0.562,Garza_Texas
+Texas,TX,Gillespie,48171,Republican,"Ted Cruz",3421,0.42,Gillespie_Texas
+Texas,TX,Glasscock,48173,Republican,"Ted Cruz",202,0.502,Glasscock_Texas
+Texas,TX,Goliad,48175,Republican,"Ted Cruz",747,0.482,Goliad_Texas
+Texas,TX,Gonzales,48177,Republican,"Ted Cruz",1698,0.505,Gonzales_Texas
+Texas,TX,Gray,48179,Republican,"Ted Cruz",2210,0.488,Gray_Texas
+Texas,TX,Grayson,48181,Republican,"Ted Cruz",8647,0.414,Grayson_Texas
+Texas,TX,Gregg,48183,Republican,"Ted Cruz",8363,0.457,Gregg_Texas
+Texas,TX,Grimes,48185,Republican,"Ted Cruz",2207,0.498,Grimes_Texas
+Texas,TX,Guadalupe,48187,Republican,"Ted Cruz",9283,0.448,Guadalupe_Texas
+Texas,TX,Hale,48189,Republican,"Ted Cruz",2202,0.5,Hale_Texas
+Texas,TX,Hansford,48195,Republican,"Ted Cruz",682,0.524,Hansford_Texas
+Texas,TX,Hardin,48199,Republican,"Ted Cruz",6354,0.51,Hardin_Texas
+Texas,TX,Harris,48201,Republican,"Ted Cruz",147721,0.453,Harris_Texas
+Texas,TX,Hartley,48205,Republican,"Ted Cruz",577,0.529,Hartley_Texas
+Texas,TX,Haskell,48207,Republican,"Ted Cruz",409,0.506,Haskell_Texas
+Texas,TX,Hays,48209,Republican,"Ted Cruz",8254,0.408,Hays_Texas
+Texas,TX,Hemphill,48211,Republican,"Ted Cruz",526,0.421,Hemphill_Texas
+Texas,TX,Hidalgo,48215,Republican,"Ted Cruz",7098,0.381,Hidalgo_Texas
+Texas,TX,Hill,48217,Republican,"Ted Cruz",4003,0.449,Hill_Texas
+Texas,TX,Hockley,48219,Republican,"Ted Cruz",2073,0.504,Hockley_Texas
+Texas,TX,Hood,48221,Republican,"Ted Cruz",5948,0.419,Hood_Texas
+Texas,TX,Hopkins,48223,Republican,"Ted Cruz",3213,0.462,Hopkins_Texas
+Texas,TX,Howard,48227,Republican,"Ted Cruz",1822,0.48,Howard_Texas
+Texas,TX,Hudspeth,48229,Republican,"Donald Trump",76,0.39,Hudspeth_Texas
+Texas,TX,Hunt,48231,Republican,"Ted Cruz",7249,0.501,Hunt_Texas
+Texas,TX,Hutchinson,48233,Republican,"Ted Cruz",2418,0.474,Hutchinson_Texas
+Texas,TX,Irion,48235,Republican,"Ted Cruz",228,0.552,Irion_Texas
+Texas,TX,Jack,48237,Republican,"Ted Cruz",943,0.495,Jack_Texas
+Texas,TX,"Jim Hogg",48247,Republican,"Ted Cruz",20,0.476,"Jim Hogg_Texas"
+Texas,TX,"Jim Wells",48249,Republican,"Ted Cruz",868,0.411,"Jim Wells_Texas"
+Texas,TX,Johnson,48251,Republican,"Ted Cruz",12070,0.478,Johnson_Texas
+Texas,TX,Karnes,48255,Republican,"Ted Cruz",647,0.534,Karnes_Texas
+Texas,TX,Kaufman,48257,Republican,"Ted Cruz",8027,0.457,Kaufman_Texas
+Texas,TX,Kenedy,48261,Republican,"Ted Cruz",8,0.421,Kenedy_Texas
+Texas,TX,Kerr,48265,Republican,"Ted Cruz",4846,0.392,Kerr_Texas
+Texas,TX,Kimble,48267,Republican,"Ted Cruz",456,0.408,Kimble_Texas
+Texas,TX,King,48269,Republican,"Ted Cruz",43,0.374,King_Texas
+Texas,TX,Kinney,48271,Republican,"Ted Cruz",202,0.396,Kinney_Texas
+Texas,TX,Kleberg,48273,Republican,"Ted Cruz",996,0.445,Kleberg_Texas
+Texas,TX,"La Salle",48283,Republican,"Ted Cruz",126,0.419,"La Salle_Texas"
+Texas,TX,Lamb,48279,Republican,"Ted Cruz",1121,0.443,Lamb_Texas
+Texas,TX,Lampasas,48281,Republican,"Ted Cruz",1705,0.442,Lampasas_Texas
+Texas,TX,Liberty,48291,Republican,"Ted Cruz",5805,0.49,Liberty_Texas
+Texas,TX,Lipscomb,48295,Republican,"Ted Cruz",515,0.498,Lipscomb_Texas
+Texas,TX,"Live Oak",48297,Republican,"Ted Cruz",1081,0.503,"Live Oak_Texas"
+Texas,TX,Llano,48299,Republican,"Ted Cruz",2161,0.366,Llano_Texas
+Texas,TX,Loving,48301,Republican,"Ted Cruz",14,0.467,Loving_Texas
+Texas,TX,Lubbock,48303,Republican,"Ted Cruz",19163,0.451,Lubbock_Texas
+Texas,TX,Lynn,48305,Republican,"Ted Cruz",678,0.491,Lynn_Texas
+Texas,TX,Matagorda,48321,Republican,"Ted Cruz",2109,0.485,Matagorda_Texas
+Texas,TX,Maverick,48323,Republican,"Ted Cruz",171,0.39,Maverick_Texas
+Texas,TX,McCulloch,48307,Republican,"Ted Cruz",906,0.436,McCulloch_Texas
+Texas,TX,McLennan,48309,Republican,"Ted Cruz",14285,0.46,McLennan_Texas
+Texas,TX,McMullen,48311,Republican,"Ted Cruz",172,0.422,McMullen_Texas
+Texas,TX,Midland,48329,Republican,"Ted Cruz",10474,0.479,Midland_Texas
+Texas,TX,Milam,48331,Republican,"Ted Cruz",1885,0.454,Milam_Texas
+Texas,TX,Mills,48333,Republican,"Ted Cruz",633,0.449,Mills_Texas
+Texas,TX,Montague,48337,Republican,"Ted Cruz",2163,0.441,Montague_Texas
+Texas,TX,Montgomery,48339,Republican,"Ted Cruz",43797,0.483,Montgomery_Texas
+Texas,TX,Morris,48343,Republican,"Ted Cruz",695,0.451,Morris_Texas
+Texas,TX,Motley,48345,Republican,"Ted Cruz",239,0.525,Motley_Texas
+Texas,TX,Nacogdoches,48347,Republican,"Ted Cruz",5229,0.523,Nacogdoches_Texas
+Texas,TX,Navarro,48349,Republican,"Ted Cruz",3372,0.423,Navarro_Texas
+Texas,TX,Nolan,48353,Republican,"Ted Cruz",1361,0.444,Nolan_Texas
+Texas,TX,Nueces,48355,Republican,"Ted Cruz",11072,0.394,Nueces_Texas
+Texas,TX,Ochiltree,48357,Republican,"Ted Cruz",928,0.517,Ochiltree_Texas
+Texas,TX,"Palo Pinto",48363,Republican,"Ted Cruz",2813,0.455,"Palo Pinto_Texas"
+Texas,TX,Panola,48365,Republican,"Ted Cruz",2756,0.517,Panola_Texas
+Texas,TX,Parker,48367,Republican,"Ted Cruz",12883,0.481,Parker_Texas
+Texas,TX,Parmer,48369,Republican,"Ted Cruz",728,0.595,Parmer_Texas
+Texas,TX,Pecos,48371,Republican,"Ted Cruz",580,0.46,Pecos_Texas
+Texas,TX,Potter,48375,Republican,"Ted Cruz",5400,0.476,Potter_Texas
+Texas,TX,Presidio,48377,Republican,"Ted Cruz",38,0.392,Presidio_Texas
+Texas,TX,Rains,48379,Republican,"Ted Cruz",1105,0.497,Rains_Texas
+Texas,TX,Randall,48381,Republican,"Ted Cruz",12593,0.512,Randall_Texas
+Texas,TX,Reagan,48383,Republican,"Ted Cruz",360,0.444,Reagan_Texas
+Texas,TX,Real,48385,Republican,"Ted Cruz",562,0.393,Real_Texas
+Texas,TX,"Red River",48387,Republican,"Ted Cruz",1048,0.434,"Red River_Texas"
+Texas,TX,Reeves,48389,Republican,"Ted Cruz",51,0.408,Reeves_Texas
+Texas,TX,Refugio,48391,Republican,"Ted Cruz",438,0.452,Refugio_Texas
+Texas,TX,Roberts,48393,Republican,"Ted Cruz",196,0.503,Roberts_Texas
+Texas,TX,Rockwall,48397,Republican,"Ted Cruz",7202,0.418,Rockwall_Texas
+Texas,TX,Runnels,48399,Republican,"Ted Cruz",1132,0.472,Runnels_Texas
+Texas,TX,Rusk,48401,Republican,"Ted Cruz",4884,0.505,Rusk_Texas
+Texas,TX,Sabine,48403,Republican,"Donald Trump",1215,0.426,Sabine_Texas
+Texas,TX,"San Augustine",48405,Republican,"Ted Cruz",916,0.451,"San Augustine_Texas"
+Texas,TX,"San Jacinto",48407,Republican,"Ted Cruz",2333,0.49,"San Jacinto_Texas"
+Texas,TX,"San Patricio",48409,Republican,"Ted Cruz",3047,0.433,"San Patricio_Texas"
+Texas,TX,"San Saba",48411,Republican,"Ted Cruz",707,0.492,"San Saba_Texas"
+Texas,TX,Schleicher,48413,Republican,"Ted Cruz",266,0.518,Schleicher_Texas
+Texas,TX,Scurry,48415,Republican,"Ted Cruz",1265,0.448,Scurry_Texas
+Texas,TX,Shackelford,48417,Republican,"Ted Cruz",560,0.484,Shackelford_Texas
+Texas,TX,Sherman,48421,Republican,"Ted Cruz",284,0.56,Sherman_Texas
+Texas,TX,Smith,48423,Republican,"Ted Cruz",21804,0.547,Smith_Texas
+Texas,TX,Somervell,48425,Republican,"Ted Cruz",1206,0.484,Somervell_Texas
+Texas,TX,Starr,48427,Republican,"Ted Cruz",61,0.48,Starr_Texas
+Texas,TX,Sterling,48431,Republican,"Ted Cruz",163,0.414,Sterling_Texas
+Texas,TX,Stonewall,48433,Republican,"Ted Cruz",141,0.513,Stonewall_Texas
+Texas,TX,Sutton,48435,Republican,"Ted Cruz",379,0.388,Sutton_Texas
+Texas,TX,Swisher,48437,Republican,"Ted Cruz",442,0.486,Swisher_Texas
+Texas,TX,Tarrant,48439,Republican,"Ted Cruz",88867,0.416,Tarrant_Texas
+Texas,TX,Taylor,48441,Republican,"Ted Cruz",10160,0.457,Taylor_Texas
+Texas,TX,Terry,48445,Republican,"Ted Cruz",879,0.484,Terry_Texas
+Texas,TX,Throckmorton,48447,Republican,"Ted Cruz",188,0.448,Throckmorton_Texas
+Texas,TX,Titus,48449,Republican,"Ted Cruz",1890,0.442,Titus_Texas
+Texas,TX,"Tom Green",48451,Republican,"Ted Cruz",7231,0.433,"Tom Green_Texas"
+Texas,TX,Travis,48453,Republican,"Ted Cruz",25757,0.304,Travis_Texas
+Texas,TX,Trinity,48455,Republican,"Ted Cruz",1435,0.408,Trinity_Texas
+Texas,TX,Tyler,48457,Republican,"Ted Cruz",2032,0.475,Tyler_Texas
+Texas,TX,Upshur,48459,Republican,"Ted Cruz",4358,0.516,Upshur_Texas
+Texas,TX,Upton,48461,Republican,"Ted Cruz",290,0.444,Upton_Texas
+Texas,TX,Uvalde,48463,Republican,"Ted Cruz",1027,0.46,Uvalde_Texas
+Texas,TX,"Val Verde",48465,Republican,"Ted Cruz",916,0.359,"Val Verde_Texas"
+Texas,TX,"Van Zandt",48467,Republican,"Ted Cruz",5954,0.507,"Van Zandt_Texas"
+Texas,TX,Victoria,48469,Republican,"Ted Cruz",5750,0.47,Victoria_Texas
+Texas,TX,Waller,48473,Republican,"Ted Cruz",3391,0.563,Waller_Texas
+Texas,TX,Ward,48475,Republican,"Ted Cruz",742,0.514,Ward_Texas
+Texas,TX,Webb,48479,Republican,"Donald Trump",1427,0.349,Webb_Texas
+Texas,TX,Wharton,48481,Republican,"Ted Cruz",3229,0.477,Wharton_Texas
+Texas,TX,Wheeler,48483,Republican,"Ted Cruz",781,0.472,Wheeler_Texas
+Texas,TX,Wichita,48485,Republican,"Ted Cruz",7008,0.445,Wichita_Texas
+Texas,TX,Wilbarger,48487,Republican,"Ted Cruz",923,0.389,Wilbarger_Texas
+Texas,TX,Willacy,48489,Republican,"Ted Cruz",122,0.362,Willacy_Texas
+Texas,TX,Williamson,48491,Republican,"Ted Cruz",23880,0.355,Williamson_Texas
+Texas,TX,Winkler,48495,Republican,"Ted Cruz",474,0.385,Winkler_Texas
+Texas,TX,Wise,48497,Republican,"Ted Cruz",5513,0.497,Wise_Texas
+Texas,TX,Yoakum,48501,Republican,"Ted Cruz",685,0.439,Yoakum_Texas
+Texas,TX,Young,48503,Republican,"Ted Cruz",1945,0.463,Young_Texas
+Texas,TX,Zapata,48505,Republican,"Donald Trump",34,0.395,Zapata_Texas
+Texas,TX,Zavala,48507,Republican,"Ben Carson",0,0,Zavala_Texas
+Utah,UT,"Box Elder",49003,Republican,"Ted Cruz",3314,0.741,"Box Elder_Utah"
+Utah,UT,Cache,49005,Republican,"Ted Cruz",7172,0.709,Cache_Utah
+Utah,UT,Carbon,49007,Republican,"Ted Cruz",595,0.608,Carbon_Utah
+Utah,UT,Daggett,49009,Republican,"Ted Cruz",36,0.383,Daggett_Utah
+Utah,UT,Davis,49011,Republican,"Ted Cruz",17528,0.684,Davis_Utah
+Utah,UT,Duchesne,49013,Republican,"Ted Cruz",1342,0.764,Duchesne_Utah
+Utah,UT,Emery,49015,Republican,"Ted Cruz",455,0.646,Emery_Utah
+Utah,UT,Grand,49019,Republican,"Ted Cruz",180,0.534,Grand_Utah
+Utah,UT,Iron,49021,Republican,"Ted Cruz",2287,0.655,Iron_Utah
+Utah,UT,Juab,49023,Republican,"Ted Cruz",647,0.767,Juab_Utah
+Utah,UT,Millard,49027,Republican,"Ted Cruz",771,0.712,Millard_Utah
+Utah,UT,Piute,49031,Republican,"Ted Cruz",86,0.512,Piute_Utah
+Utah,UT,Rich,49033,Republican,"Ted Cruz",198,0.786,Rich_Utah
+Utah,UT,"Salt Lake",49035,Republican,"Ted Cruz",31164,0.667,"Salt Lake_Utah"
+Utah,UT,"San Juan",49037,Republican,"Ted Cruz",407,0.718,"San Juan_Utah"
+Utah,UT,Sanpete,49039,Republican,"Ted Cruz",1282,0.69,Sanpete_Utah
+Utah,UT,Tooele,49045,Republican,"Ted Cruz",2412,0.708,Tooele_Utah
+Utah,UT,Uintah,49047,Republican,"Ted Cruz",2144,0.739,Uintah_Utah
+Utah,UT,Utah,49049,Republican,"Ted Cruz",30637,0.755,Utah_Utah
+Utah,UT,Wasatch,49051,Republican,"Ted Cruz",1529,0.644,Wasatch_Utah
+Utah,UT,Weber,49057,Republican,"Ted Cruz",7058,0.671,Weber_Utah
+Vermont,VT,Addison,50001,Republican,"Donald Trump",66,0.288,Addison_Vermont
+Vermont,VT,Bennington,50003,Republican,"Donald Trump",435,0.439,Bennington_Vermont
+Vermont,VT,Chittenden,50007,Republican,"John Kasich",98,0.432,Chittenden_Vermont
+Vermont,VT,Essex,50009,Republican,"John Kasich",713,0.342,Essex_Vermont
+Vermont,VT,"Grand Isle",50013,Republican,"Donald Trump",112,0.381,"Grand Isle_Vermont"
+Vermont,VT,Rutland,50021,Republican,"Donald Trump",678,0.357,Rutland_Vermont
+Vermont,VT,Windham,50025,Republican,"Donald Trump",12,0.48,Windham_Vermont
+Vermont,VT,Windsor,50027,Republican,"Donald Trump",104,0.361,Windsor_Vermont
+Virginia,VA,Albemarle,51003,Republican,"Marco Rubio",5518,0.371,Albemarle_Virginia
+Virginia,VA,Amelia,51007,Republican,"Donald Trump",1055,0.481,Amelia_Virginia
+Virginia,VA,Amherst,51009,Republican,"Donald Trump",1777,0.397,Amherst_Virginia
+Virginia,VA,Appomattox,51011,Republican,"Donald Trump",1033,0.428,Appomattox_Virginia
+Virginia,VA,Arlington,51013,Republican,"Marco Rubio",10944,0.497,Arlington_Virginia
+Virginia,VA,Augusta,51015,Republican,"Donald Trump",5117,0.373,Augusta_Virginia
+Virginia,VA,Bath,51017,Republican,"Donald Trump",296,0.495,Bath_Virginia
+Virginia,VA,Bedford,51019,Republican,"Donald Trump",5328,0.35,Bedford_Virginia
+Virginia,VA,Bland,51021,Republican,"Donald Trump",584,0.55,Bland_Virginia
+Virginia,VA,Botetourt,51023,Republican,"Donald Trump",2185,0.356,Botetourt_Virginia
+Virginia,VA,Buckingham,51029,Republican,"Donald Trump",830,0.5,Buckingham_Virginia
+Virginia,VA,Campbell,51031,Republican,"Donald Trump",3399,0.38,Campbell_Virginia
+Virginia,VA,Caroline,51033,Republican,"Donald Trump",1446,0.447,Caroline_Virginia
+Virginia,VA,"Charles City",51036,Republican,"Donald Trump",252,0.378,"Charles City_Virginia"
+Virginia,VA,Chesterfield,51041,Republican,"Marco Rubio",18762,0.349,Chesterfield_Virginia
+Virginia,VA,Culpeper,51047,Republican,"Donald Trump",2620,0.376,Culpeper_Virginia
+Virginia,VA,Dickenson,51051,Republican,"Donald Trump",911,0.605,Dickenson_Virginia
+Virginia,VA,Dinwiddie,51053,Republican,"Donald Trump",1457,0.52,Dinwiddie_Virginia
+Virginia,VA,Fairfax,51059,Republican,"Marco Rubio",52257,0.4,Fairfax_Virginia
+Virginia,VA,Fauquier,51061,Republican,"Donald Trump",4888,0.361,Fauquier_Virginia
+Virginia,VA,Fluvanna,51065,Republican,"Donald Trump",1280,0.352,Fluvanna_Virginia
+Virginia,VA,Frederick,51069,Republican,"Donald Trump",4730,0.367,Frederick_Virginia
+Virginia,VA,Gloucester,51073,Republican,"Donald Trump",2907,0.441,Gloucester_Virginia
+Virginia,VA,Goochland,51075,Republican,"Marco Rubio",1903,0.351,Goochland_Virginia
+Virginia,VA,Greensville,51081,Republican,"Donald Trump",371,0.534,Greensville_Virginia
+Virginia,VA,Halifax,51083,Republican,"Donald Trump",2157,0.545,Halifax_Virginia
+Virginia,VA,Hampton,51650,Republican,"Donald Trump",3876,0.407,Hampton_Virginia
+Virginia,VA,Hanover,51085,Republican,"Donald Trump",8586,0.347,Hanover_Virginia
+Virginia,VA,Henrico,51087,Republican,"Marco Rubio",16499,0.369,Henrico_Virginia
+Virginia,VA,"Isle of Wight",51093,Republican,"Donald Trump",2497,0.416,"Isle of Wight_Virginia"
+Virginia,VA,"James City",51095,Republican,"Marco Rubio",5780,0.376,"James City_Virginia"
+Virginia,VA,"King George",51099,Republican,"Donald Trump",1437,0.367,"King George_Virginia"
+Virginia,VA,"King William",51101,Republican,"Donald Trump",1131,0.418,"King William_Virginia"
+Virginia,VA,"King and Queen",51097,Republican,"Donald Trump",411,0.492,"King and Queen_Virginia"
+Virginia,VA,Loudoun,51107,Republican,"Marco Rubio",20845,0.404,Loudoun_Virginia
+Virginia,VA,Louisa,51109,Republican,"Donald Trump",2094,0.406,Louisa_Virginia
+Virginia,VA,Lunenburg,51111,Republican,"Donald Trump",642,0.485,Lunenburg_Virginia
+Virginia,VA,Mathews,51115,Republican,"Donald Trump",762,0.43,Mathews_Virginia
+Virginia,VA,Middlesex,51119,Republican,"Donald Trump",945,0.492,Middlesex_Virginia
+Virginia,VA,Nelson,51125,Republican,"Donald Trump",692,0.411,Nelson_Virginia
+Virginia,VA,"New Kent",51127,Republican,"Donald Trump",1626,0.398,"New Kent_Virginia"
+Virginia,VA,"Newport News",51700,Republican,"Donald Trump",5192,0.369,"Newport News_Virginia"
+Virginia,VA,Norfolk,51710,Republican,"Donald Trump",4555,0.365,Norfolk_Virginia
+Virginia,VA,Northampton,51131,Republican,"Donald Trump",626,0.454,Northampton_Virginia
+Virginia,VA,Northumberland,51133,Republican,"Donald Trump",1062,0.44,Northumberland_Virginia
+Virginia,VA,Nottoway,51135,Republican,"Donald Trump",783,0.483,Nottoway_Virginia
+Virginia,VA,Page,51139,Republican,"Donald Trump",1377,0.51,Page_Virginia
+Virginia,VA,Patrick,51141,Republican,"Donald Trump",1182,0.468,Patrick_Virginia
+Virginia,VA,Pittsylvania,51143,Republican,"Donald Trump",4198,0.486,Pittsylvania_Virginia
+Virginia,VA,Powhatan,51145,Republican,"Donald Trump",2509,0.381,Powhatan_Virginia
+Virginia,VA,"Prince Edward",51147,Republican,"Donald Trump",853,0.414,"Prince Edward_Virginia"
+Virginia,VA,"Prince George",51149,Republican,"Donald Trump",1938,0.483,"Prince George_Virginia"
+Virginia,VA,"Prince William",51153,Republican,"Marco Rubio",15537,0.335,"Prince William_Virginia"
+Virginia,VA,Rappahannock,51157,Republican,"Donald Trump",556,0.406,Rappahannock_Virginia
+Virginia,VA,Roanoke,51161,Republican,"Donald Trump",5650,0.346,Roanoke_Virginia
+Virginia,VA,Rockbridge,51163,Republican,"Donald Trump",1154,0.355,Rockbridge_Virginia
+Virginia,VA,Shenandoah,51171,Republican,"Donald Trump",2400,0.384,Shenandoah_Virginia
+Virginia,VA,Smyth,51173,Republican,"Donald Trump",1744,0.52,Smyth_Virginia
+Virginia,VA,Southampton,51175,Republican,"Donald Trump",1025,0.47,Southampton_Virginia
+Virginia,VA,Spotsylvania,51177,Republican,"Donald Trump",6858,0.375,Spotsylvania_Virginia
+Virginia,VA,Stafford,51179,Republican,"Donald Trump",7339,0.36,Stafford_Virginia
+Virginia,VA,Suffolk,51800,Republican,"Donald Trump",3732,0.395,Suffolk_Virginia
+Virginia,VA,Sussex,51183,Republican,"Donald Trump",440,0.493,Sussex_Virginia
+Virginia,VA,"Virginia Beach",51810,Republican,"Donald Trump",22139,0.397,"Virginia Beach_Virginia"
+Virginia,VA,Westmoreland,51193,Republican,"Donald Trump",1002,0.488,Westmoreland_Virginia
+Virginia,VA,Wythe,51197,Republican,"Donald Trump",1873,0.537,Wythe_Virginia
