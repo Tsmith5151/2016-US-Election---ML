@@ -1,4 +1,4 @@
-# 2016 POTUS US Primary Election Results 
+## 2016 POTUS US Primary Election Results 
 
 ### Data Description
 
@@ -34,3 +34,7 @@
 %load_ext sql
 %sql sqlite:///database.sqlite
 ```
+#### Data Source:
+- (`Primary Results from CNN`)[http://www.cnn.com/election/primaries/counties/ia/Dem]
+- (`New Hamphsire County-Level Results`)[https://numeracy.co/projects/2n9KPEk6ShS]
+- (`County Facts`)[http://www.census.gov/quickfacts/404.php]
