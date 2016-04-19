@@ -24,10 +24,45 @@
   - database.sqlite: SQLite database containing the primary_results, county_facts, and county_facts_dictionary tables with identical     data and schema
 
 #### Libraries:
-  - `Python 2.7`
-  - `Pandas`
-  - `Numpy`
-  - `SQLITE3`
+```python
+import sys
+import pandas as pd
+#pd.set_option('display.max_rows', 1300)
+import numpy as np
+import matplotlib.pyplot as pl
+import networkx as nx
+import pygraphviz
+import seaborn as sns
+import sqlite3
+import time
+import pydot
+import os
+import time
+from StringIO import StringIO
+from io import BytesIO
+from IPython.display import Image
+%matplotlib inline 
+```
+
+### From Sci-Kit Learn:
+``` python
+from sklearn.metrics import confusion_matrix
+from sklearn.decomposition import PCA
+from sklearn import preprocessing
+from sklearn.metrics import f1_score, accuracy_score
+from sklearn.cross_validation import cross_val_score
+from sklearn.cross_validation import StratifiedShuffleSplit
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.svm import SVC
+from sklearn.grid_search import GridSearchCV
+from sklearn.metrics import classification_report
+from sklearn import tree
+from sklearn.externals.six import StringIO   
+from sklearn.tree import export_graphviz
+from sklearn.feature_extraction import DictVectorizer
+```
+
   - To run `SQLITE3` in the `ipython notebook`kernel, install sql magic for IPython:
      ```python pip install ipython-sql```
   - Examples how to use ipython-sql can be foud [`here`](https://github.com/catherinedevlin/ipython-sql)
@@ -40,3 +75,5 @@
 - (`Primary Results from CNN`)[http://www.cnn.com/election/primaries/counties/ia/Dem]
 - (`New Hamphsire County-Level Results`)[https://numeracy.co/projects/2n9KPEk6ShS]
 - (`County Facts`)[http://www.census.gov/quickfacts/404.php]
+
+
