@@ -44,7 +44,7 @@ from IPython.display import Image
 %matplotlib inline 
 ```
 
-### From Sci-Kit Learn:
+#### Sci-Kit Learn:
 ``` python
 from sklearn.metrics import confusion_matrix
 from sklearn.decomposition import PCA
