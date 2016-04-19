@@ -1,6 +1,6 @@
 ## 2016 POTUS US Primary Election Results 
 
-#####  Run [`analysis.ipynb`](https://github.com/Tsmith5151/2016-US-Election-ML/blob/master/analysis.ipynb)
+#####  Run: [`analysis.ipynb`](https://github.com/Tsmith5151/2016-US-Election-ML/blob/master/analysis.ipynb)
 
 ### Data Description
 
