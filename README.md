@@ -1,5 +1,7 @@
 ## 2016 POTUS US Primary Election Results 
 
+#####  Run [`analysis.ipynb`](https://github.com/Tsmith5151/2016-US-Election-ML/edit/master/README.md)
+
 ### Data Description
 
 - The 2016 US Election dataset contains several main files and folders.
