@@ -76,5 +76,3 @@ from sklearn.feature_extraction import DictVectorizer
 - (`New Hamphsire County-Level Results`)[https://numeracy.co/projects/2n9KPEk6ShS]
 - (`County Facts`)[http://www.census.gov/quickfacts/404.php]
 
-
-![alt](screenshot.png)
